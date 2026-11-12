@@ -1,0 +1,4640 @@
+{
+  "schemaVersion": "1.0",
+  "project": "Shobdo Aura",
+  "generatedAt": "2026-11-12T15:14:10.118Z",
+  "scope": "Bangladesh examination vocabulary and phrase questions",
+  "coverage": {
+    "indexedSessions": [
+      "1991–92",
+      "1992–93",
+      "1993–94",
+      "1994–95",
+      "1995–96",
+      "1996–97",
+      "1997–98",
+      "1998–99",
+      "1999–00",
+      "2000–01",
+      "2001–02",
+      "2002–03",
+      "2003–04",
+      "2004–05",
+      "2005–06",
+      "2006–07",
+      "2007–08",
+      "2008–09",
+      "2009–10",
+      "2010–11",
+      "2011–12",
+      "2012–13",
+      "2013–14",
+      "2014–15",
+      "2015–16",
+      "2016–17",
+      "2017–18",
+      "2018–19",
+      "2019–20",
+      "2020–21",
+      "2021–22",
+      "2022–23",
+      "2023–24",
+      "2024–25",
+      "2025–26"
+    ],
+    "extractedQuestionRecords": 100,
+    "warning": "An indexed session does not mean every question in the original paper has been extracted. Secondary transcriptions and answer keys require primary-paper verification."
+  },
+  "words": [
+    {
+      "id": "immoral",
+      "word": "Immoral",
+      "letter": "I",
+      "pos": "adjective",
+      "ipa": "/ɪˈmɒrəl/",
+      "bn": "/ইমোরাল/",
+      "english": "Not following accepted standards of right and wrong; morally wrong.",
+      "banglaDefinition": "নৈতিকভাবে ভুল বা প্রচলিত নৈতিক আদর্শের পরিপন্থী।",
+      "banglaMeaning": "অনৈতিক, নীতিবিরুদ্ধ",
+      "synonyms": [
+        "unethical",
+        "wrong",
+        "dishonourable"
+      ],
+      "antonyms": [
+        "moral",
+        "ethical",
+        "virtuous"
+      ],
+      "example": "Cheating in an examination is considered immoral.",
+      "notes": "The prefix im- expresses negation in this word."
+    },
+    {
+      "id": "irritable",
+      "word": "Irritable",
+      "letter": "I",
+      "pos": "adjective",
+      "ipa": "/ˈɪrɪtəbəl/",
+      "bn": "/ইরিটেবল/",
+      "english": "Easily annoyed, upset, or made angry.",
+      "banglaDefinition": "যে ব্যক্তি সহজেই বিরক্ত বা রাগান্বিত হয়ে পড়ে।",
+      "banglaMeaning": "খিটখিটে, সহজে বিরক্ত হয় এমন",
+      "synonyms": [
+        "touchy",
+        "cranky",
+        "short-tempered"
+      ],
+      "antonyms": [
+        "calm",
+        "patient",
+        "easygoing"
+      ],
+      "example": "He becomes irritable when he is tired."
+    },
+    {
+      "id": "bankrupt",
+      "word": "Bankrupt",
+      "letter": "B",
+      "pos": "adjective / noun / verb",
+      "ipa": "/ˈbæŋkrʌpt/",
+      "bn": "/ব্যাংক্রাপ্ট/",
+      "english": "Unable to pay debts; having legally or financially failed to meet financial obligations.",
+      "banglaDefinition": "যে ব্যক্তি বা প্রতিষ্ঠান ঋণ পরিশোধ করতে অক্ষম।",
+      "banglaMeaning": "দেউলিয়া, ঋণ পরিশোধে অক্ষম",
+      "synonyms": [
+        "insolvent",
+        "broke",
+        "impecunious"
+      ],
+      "antonyms": [
+        "solvent",
+        "wealthy",
+        "creditworthy"
+      ],
+      "example": "The company went bankrupt after several years of losses."
+    },
+    {
+      "id": "ideal",
+      "word": "Ideal",
+      "letter": "I",
+      "pos": "noun / adjective",
+      "ipa": "/aɪˈdiːəl/",
+      "bn": "/আইডিয়াল/",
+      "english": "A standard of perfection; the best or most suitable possible example of something.",
+      "banglaDefinition": "কোনো কিছুর সর্বোত্তম বা নিখুঁত রূপ, অথবা অনুসরণযোগ্য মান।",
+      "banglaMeaning": "আদর্শ, নিখুঁত, সর্বোত্তম",
+      "synonyms": [
+        "perfect",
+        "excellent",
+        "model"
+      ],
+      "antonyms": [
+        "flawed",
+        "imperfect",
+        "unsuitable"
+      ],
+      "example": "An ideal candidate should be honest and hardworking."
+    },
+    {
+      "id": "mobilized",
+      "word": "Mobilized",
+      "letter": "M",
+      "pos": "verb (past tense)",
+      "ipa": "/ˈmoʊbəlaɪzd/",
+      "bn": "/মোবিলাইজড/",
+      "english": "Organized or brought together people, resources, or support for a particular purpose.",
+      "banglaDefinition": "কোনো উদ্দেশ্যে মানুষ, অর্থ বা সম্পদ সংগঠিত করে কাজে লাগানো হয়েছে।",
+      "banglaMeaning": "সংগঠিত করেছিল, একত্র করেছিল, সক্রিয় করেছিল",
+      "synonyms": [
+        "organized",
+        "assembled",
+        "rallied"
+      ],
+      "antonyms": [
+        "dispersed",
+        "demobilized"
+      ],
+      "example": "Volunteers mobilized resources for the relief effort."
+    },
+    {
+      "id": "habit",
+      "word": "Habit",
+      "letter": "H",
+      "pos": "noun",
+      "ipa": "/ˈhæbɪt/",
+      "bn": "/হ্যাবিট/",
+      "english": "A regular behaviour or practice, especially one that is difficult to give up.",
+      "banglaDefinition": "বারবার করতে করতে নিয়মিত অভ্যাসে পরিণত হওয়া কোনো কাজ বা আচরণ।",
+      "banglaMeaning": "অভ্যাস, স্বভাব",
+      "synonyms": [
+        "custom",
+        "practice",
+        "routine"
+      ],
+      "antonyms": [
+        "irregularity",
+        "exception"
+      ],
+      "example": "Reading every day is a useful habit.",
+      "forms": "habit (noun), habitual (adjective), habituate (verb)"
+    },
+    {
+      "id": "pernicious",
+      "word": "Pernicious",
+      "letter": "P",
+      "pos": "adjective",
+      "ipa": "/pərˈnɪʃəs/",
+      "bn": "/পার্নিশাস/",
+      "english": "Having a harmful effect, especially in a gradual or subtle way.",
+      "banglaDefinition": "যা ধীরে ধীরে বা গোপনে গুরুতর ক্ষতি করে।",
+      "banglaMeaning": "ক্ষতিকর, মারাত্মক ক্ষতিকর",
+      "synonyms": [
+        "harmful",
+        "damaging",
+        "detrimental"
+      ],
+      "antonyms": [
+        "beneficial",
+        "harmless",
+        "helpful"
+      ],
+      "example": "Smoking has a pernicious effect on health."
+    },
+    {
+      "id": "volatile",
+      "word": "Volatile",
+      "letter": "V",
+      "pos": "adjective",
+      "ipa": "/ˈvɑːlətl/",
+      "bn": "/ভলাটাইল/",
+      "english": "Likely to change suddenly; unstable. It can also describe a substance that evaporates easily.",
+      "banglaDefinition": "যা দ্রুত ও অপ্রত্যাশিতভাবে পরিবর্তিত হয় বা স্থিতিশীল নয়।",
+      "banglaMeaning": "অস্থিতিশীল, পরিবর্তনশীল, উদ্বায়ী",
+      "synonyms": [
+        "unstable",
+        "changeable",
+        "unpredictable"
+      ],
+      "antonyms": [
+        "stable",
+        "steady",
+        "constant"
+      ],
+      "example": "The political situation remained volatile."
+    },
+    {
+      "id": "lacuna",
+      "word": "Lacuna",
+      "letter": "L",
+      "pos": "noun",
+      "ipa": "/ləˈkuːnə/",
+      "bn": "/লাকুনা/",
+      "english": "A gap, missing part, or area that is absent from something.",
+      "banglaDefinition": "কোনো লেখা, যুক্তি বা ব্যবস্থায় থাকা ফাঁক বা অনুপস্থিত অংশ।",
+      "banglaMeaning": "শূন্যস্থান, ঘাটতি, ফাঁক",
+      "synonyms": [
+        "gap",
+        "omission",
+        "void"
+      ],
+      "antonyms": [
+        "completeness",
+        "fullness"
+      ],
+      "example": "The report contains a lacuna in its account of the events."
+    },
+    {
+      "id": "destitute",
+      "word": "Destitute",
+      "letter": "D",
+      "pos": "adjective",
+      "ipa": "/ˈdestɪtuːt/",
+      "bn": "/ডেস্টিটিউট/",
+      "english": "Without the basic necessities of life; extremely poor.",
+      "banglaDefinition": "যার জীবনধারণের ন্যূনতম প্রয়োজনীয় উপকরণও নেই।",
+      "banglaMeaning": "নিঃস্ব, অভাবগ্রস্ত, সর্বস্বান্ত",
+      "synonyms": [
+        "impoverished",
+        "penniless",
+        "indigent"
+      ],
+      "antonyms": [
+        "wealthy",
+        "affluent",
+        "prosperous"
+      ],
+      "example": "The charity provides shelter to destitute families."
+    },
+    {
+      "id": "resentment",
+      "word": "Resentment",
+      "letter": "R",
+      "pos": "noun",
+      "ipa": "/rɪˈzentmənt/",
+      "bn": "/রিজেন্টমেন্ট/",
+      "english": "A feeling of bitterness or anger because of unfair treatment or an insult.",
+      "banglaDefinition": "অন্যায় আচরণ বা অপমানের কারণে মনে জমে থাকা ক্ষোভ বা বিরক্তি।",
+      "banglaMeaning": "ক্ষোভ, অসন্তোষ, বিরাগ",
+      "synonyms": [
+        "indignation",
+        "bitterness",
+        "resentfulness"
+      ],
+      "antonyms": [
+        "goodwill",
+        "affection",
+        "contentment"
+      ],
+      "example": "Years of unfair treatment created deep resentment."
+    },
+    {
+      "id": "percipience",
+      "word": "Percipience",
+      "letter": "P",
+      "pos": "noun",
+      "ipa": "/pərˈsɪpiəns/",
+      "bn": "/পারসিপিয়েন্স/",
+      "english": "The ability to understand or notice things clearly; perceptiveness.",
+      "banglaDefinition": "কোনো বিষয় সূক্ষ্মভাবে বুঝতে বা উপলব্ধি করতে পারার ক্ষমতা।",
+      "banglaMeaning": "সূক্ষ্ম উপলব্ধি, প্রখর বোধশক্তি",
+      "synonyms": [
+        "perceptiveness",
+        "insight",
+        "discernment"
+      ],
+      "antonyms": [
+        "dullness",
+        "obtuseness"
+      ],
+      "example": "Her percipience helped her notice the flaw."
+    },
+    {
+      "id": "hangar",
+      "word": "Hangar",
+      "letter": "H",
+      "pos": "noun",
+      "ipa": "/ˈhæŋər/",
+      "bn": "/হ্যাঙ্গার/",
+      "english": "A large building in which aircraft are kept or repaired.",
+      "banglaDefinition": "বিমান রাখা, রক্ষণাবেক্ষণ বা মেরামতের জন্য ব্যবহৃত বড় ভবন।",
+      "banglaMeaning": "বিমান রাখার বড় ঘর বা ভবন",
+      "synonyms": [
+        "aircraft shed",
+        "aircraft garage"
+      ],
+      "antonyms": [],
+      "example": "The aircraft was moved into the hangar."
+    },
+    {
+      "id": "crepuscular",
+      "word": "Crepuscular",
+      "letter": "C",
+      "pos": "adjective",
+      "ipa": "/krɪˈpʌskjələr/",
+      "bn": "/ক্রিপাসকুলার/",
+      "english": "Relating to twilight; active mainly around dawn or dusk.",
+      "banglaDefinition": "গোধূলি বা ভোর-সন্ধ্যার ক্ষীণ আলোর সঙ্গে সম্পর্কিত; কিছু প্রাণীর ক্ষেত্রে ভোর বা সন্ধ্যায় সক্রিয়।",
+      "banglaMeaning": "গোধূলি-সম্পর্কিত, সন্ধ্যা বা ভোরে সক্রিয়",
+      "synonyms": [
+        "twilit",
+        "dusky"
+      ],
+      "antonyms": [
+        "diurnal",
+        "nocturnal"
+      ],
+      "example": "Rabbits are often crepuscular animals."
+    },
+    {
+      "id": "abolish",
+      "word": "Abolish",
+      "letter": "A",
+      "pos": "verb",
+      "ipa": "/əˈbɑːlɪʃ/",
+      "bn": "/অ্যাবলিশ/",
+      "english": "To formally end a law, system, practice, or institution.",
+      "banglaDefinition": "কোনো আইন, প্রথা বা ব্যবস্থা আনুষ্ঠানিকভাবে বিলুপ্ত করা।",
+      "banglaMeaning": "বিলুপ্ত করা, রদ করা",
+      "synonyms": [
+        "abrogate",
+        "repeal",
+        "eliminate"
+      ],
+      "antonyms": [
+        "establish",
+        "introduce",
+        "institute"
+      ],
+      "example": "The government decided to abolish the outdated rule."
+    },
+    {
+      "id": "concur",
+      "word": "Concur",
+      "letter": "C",
+      "pos": "verb",
+      "ipa": "/kənˈkɜːr/",
+      "bn": "/কনকার/",
+      "english": "To agree with someone or have the same opinion.",
+      "banglaDefinition": "কারও মতামতের সঙ্গে একমত হওয়া।",
+      "banglaMeaning": "একমত হওয়া, সম্মতি জানানো",
+      "synonyms": [
+        "agree",
+        "coincide",
+        "assent"
+      ],
+      "antonyms": [
+        "disagree",
+        "dissent",
+        "differ"
+      ],
+      "example": "I concur with your assessment."
+    },
+    {
+      "id": "prudent",
+      "word": "Prudent",
+      "letter": "P",
+      "pos": "adjective",
+      "ipa": "/ˈpruːdnt/",
+      "bn": "/প্রুডেন্ট/",
+      "english": "Showing good judgement and careful thought, especially about the future.",
+      "banglaDefinition": "ভবিষ্যৎ বিবেচনা করে বিচক্ষণ ও সতর্কভাবে সিদ্ধান্ত নেয় এমন।",
+      "banglaMeaning": "বিচক্ষণ, দূরদর্শী, সতর্ক",
+      "synonyms": [
+        "wise",
+        "sensible",
+        "judicious"
+      ],
+      "antonyms": [
+        "reckless",
+        "imprudent",
+        "careless"
+      ],
+      "example": "Saving a portion of your income is a prudent decision."
+    },
+    {
+      "id": "reluctant",
+      "word": "Reluctant",
+      "letter": "R",
+      "pos": "adjective",
+      "ipa": "/rɪˈlʌktənt/",
+      "bn": "/রিলাকট্যান্ট/",
+      "english": "Unwilling or hesitant to do something.",
+      "banglaDefinition": "কোনো কাজ করতে অনিচ্ছুক বা দ্বিধাগ্রস্ত।",
+      "banglaMeaning": "অনিচ্ছুক, দ্বিধাগ্রস্ত",
+      "synonyms": [
+        "unwilling",
+        "hesitant",
+        "disinclined"
+      ],
+      "antonyms": [
+        "willing",
+        "eager",
+        "enthusiastic"
+      ],
+      "example": "She was reluctant to leave her hometown."
+    },
+    {
+      "id": "benign",
+      "word": "Benign",
+      "letter": "B",
+      "pos": "adjective",
+      "ipa": "/bɪˈnaɪn/",
+      "bn": "/বিনাইন/",
+      "english": "Gentle and kind; not harmful or dangerous.",
+      "banglaDefinition": "যা ক্ষতিকর নয়; অথবা স্বভাবের দিক থেকে সদয় ও কোমল।",
+      "banglaMeaning": "নিরীহ, সদয়, ক্ষতিহীন",
+      "synonyms": [
+        "kind",
+        "harmless",
+        "gentle"
+      ],
+      "antonyms": [
+        "malignant",
+        "harmful",
+        "cruel"
+      ],
+      "example": "The doctor confirmed that the growth was benign."
+    },
+    {
+      "id": "mitigate",
+      "word": "Mitigate",
+      "letter": "M",
+      "pos": "verb",
+      "ipa": "/ˈmɪtɪɡeɪt/",
+      "bn": "/মিটিগেট/",
+      "english": "To make something less severe, harmful, or painful.",
+      "banglaDefinition": "কোনো সমস্যা, কষ্ট বা ক্ষতির তীব্রতা কমানো।",
+      "banglaMeaning": "লাঘব করা, প্রশমিত করা, কমিয়ে আনা",
+      "synonyms": [
+        "alleviate",
+        "lessen",
+        "reduce"
+      ],
+      "antonyms": [
+        "aggravate",
+        "intensify",
+        "worsen"
+      ],
+      "example": "Trees can help mitigate the effects of heat."
+    },
+    {
+      "id": "scarcity",
+      "word": "Scarcity",
+      "letter": "S",
+      "pos": "noun",
+      "ipa": "/ˈskersəti/",
+      "bn": "/স্কার্সিটি/",
+      "english": "A shortage or insufficient supply of something.",
+      "banglaDefinition": "প্রয়োজনের তুলনায় কোনো কিছুর অপ্রতুলতা বা অভাব।",
+      "banglaMeaning": "দুষ্প্রাপ্যতা, স্বল্পতা, অভাব",
+      "synonyms": [
+        "shortage",
+        "dearth",
+        "lack"
+      ],
+      "antonyms": [
+        "abundance",
+        "plenty",
+        "surplus"
+      ],
+      "example": "Water scarcity is a serious challenge in some regions."
+    },
+    {
+      "id": "authentic",
+      "word": "Authentic",
+      "letter": "A",
+      "pos": "adjective",
+      "ipa": "/ɔːˈθentɪk/",
+      "bn": "/অথেন্টিক/",
+      "english": "Genuine, real, or coming from a reliable source; not fake.",
+      "banglaDefinition": "যা আসল, প্রকৃত বা নির্ভরযোগ্য; নকল নয়।",
+      "banglaMeaning": "প্রামাণিক, আসল, অকৃত্রিম",
+      "synonyms": [
+        "genuine",
+        "real",
+        "credible"
+      ],
+      "antonyms": [
+        "fake",
+        "false",
+        "counterfeit"
+      ],
+      "example": "The museum confirmed that the document is authentic."
+    },
+    {
+      "id": "barter",
+      "word": "Barter",
+      "letter": "B",
+      "pos": "verb / noun",
+      "ipa": "/ˈbɑːrtər/",
+      "bn": "/বার্টার/",
+      "english": "To exchange goods or services directly without using money.",
+      "banglaDefinition": "টাকা ব্যবহার না করে পণ্য বা সেবার বিনিময়ে অন্য পণ্য বা সেবা নেওয়া।",
+      "banglaMeaning": "পণ্য বিনিময়, বিনিময় করা",
+      "synonyms": [
+        "exchange",
+        "trade",
+        "swap"
+      ],
+      "antonyms": [
+        "purchase",
+        "buy"
+      ],
+      "example": "In the past, people often bartered goods."
+    },
+    {
+      "id": "panacea",
+      "word": "Panacea",
+      "pos": "noun",
+      "ipa": "/ˌpænəˈsiːə/",
+      "bn": "/প্যানাসিয়া/",
+      "english": "A solution or remedy that is claimed to solve every problem or cure every illness.",
+      "banglaDefinition": "এমন কোনো প্রতিকার বা সমাধান, যা সব সমস্যার সমাধান বা সব রোগের চিকিৎসা করতে পারে বলে মনে করা হয়।",
+      "banglaMeaning": "সর্বব্যাধির মহৌষধ, সর্বসমাধান",
+      "synonyms": [
+        "cure-all",
+        "remedy",
+        "universal solution"
+      ],
+      "antonyms": [
+        "problem",
+        "cause"
+      ],
+      "example": "There is no single panacea for every social problem.",
+      "collocations": [
+        "a universal panacea",
+        "no panacea for"
+      ],
+      "cluster": [
+        "remedy",
+        "cure",
+        "solution"
+      ],
+      "letter": "P"
+    },
+    {
+      "id": "sanction",
+      "word": "Sanction",
+      "pos": "noun / verb",
+      "ipa": "/ˈsæŋkʃən/",
+      "bn": "/স্যাংকশন/",
+      "english": "Official permission or approval; as a verb, to authorize or impose a penalty depending on context.",
+      "banglaDefinition": "প্রসঙ্গ অনুযায়ী সরকারি অনুমোদন বা কোনো কাজের ওপর নিষেধাজ্ঞা/শাস্তিমূলক ব্যবস্থা।",
+      "banglaMeaning": "অনুমোদন, অনুমতি; নিষেধাজ্ঞা",
+      "synonyms": [
+        "authorization",
+        "approval",
+        "permit"
+      ],
+      "antonyms": [
+        "prohibition",
+        "ban",
+        "veto"
+      ],
+      "example": "The committee gave its sanction to the proposal.",
+      "collocations": [
+        "official sanction",
+        "give sanction",
+        "economic sanctions"
+      ],
+      "cluster": [
+        "authorization",
+        "approval",
+        "permission"
+      ],
+      "letter": "S"
+    },
+    {
+      "id": "hospitality",
+      "word": "Hospitality",
+      "pos": "noun",
+      "ipa": "/ˌhɒspɪˈtæləti/",
+      "bn": "/হসপিট্যালিটি/",
+      "english": "Friendly and generous treatment of guests or visitors.",
+      "banglaDefinition": "অতিথি বা আগন্তুককে আন্তরিক ও উদারভাবে আপ্যায়ন করার গুণ।",
+      "banglaMeaning": "আতিথেয়তা, অতিথিপরায়ণতা",
+      "synonyms": [
+        "welcome",
+        "warmth",
+        "generosity"
+      ],
+      "antonyms": [
+        "hostility",
+        "unkindness"
+      ],
+      "example": "We were impressed by the hospitality of the villagers.",
+      "collocations": [
+        "warm hospitality",
+        "show hospitality",
+        "hospitality industry"
+      ],
+      "cluster": [
+        "welcome",
+        "courtesy",
+        "generosity"
+      ],
+      "letter": "H"
+    },
+    {
+      "id": "facilitate",
+      "word": "Facilitate",
+      "pos": "verb",
+      "ipa": "/fəˈsɪlɪteɪt/",
+      "bn": "/ফ্যাসিলিটেট/",
+      "english": "To make an action or process easier.",
+      "banglaDefinition": "কোনো কাজ বা প্রক্রিয়াকে সহজ করে দেওয়া।",
+      "banglaMeaning": "সহজতর করা, সহায়তা করা",
+      "synonyms": [
+        "ease",
+        "assist",
+        "enable"
+      ],
+      "antonyms": [
+        "hinder",
+        "hamper",
+        "obstruct"
+      ],
+      "example": "Clear instructions facilitate learning.",
+      "collocations": [
+        "facilitate communication",
+        "facilitate access",
+        "facilitate learning"
+      ],
+      "cluster": [
+        "ease",
+        "enable",
+        "assist"
+      ],
+      "letter": "F"
+    },
+    {
+      "id": "delinquent",
+      "word": "Delinquent",
+      "pos": "adjective / noun",
+      "ipa": "/dɪˈlɪŋkwənt/",
+      "bn": "/ডিলিংকুয়েন্ট/",
+      "english": "Failing to do what is required by law or duty; a person, especially a young person, who has committed an offence.",
+      "banglaDefinition": "আইন বা কর্তব্য অনুযায়ী যা করা দরকার তা করতে ব্যর্থ; অথবা অপরাধে জড়িত ব্যক্তি।",
+      "banglaMeaning": "দায়িত্বে অবহেলাকারী, অপরাধপ্রবণ",
+      "synonyms": [
+        "offending",
+        "lawbreaking",
+        "neglectful"
+      ],
+      "antonyms": [
+        "law-abiding",
+        "responsible"
+      ],
+      "example": "The report discussed delinquent behaviour among teenagers.",
+      "collocations": [
+        "juvenile delinquent",
+        "delinquent behaviour",
+        "delinquent account"
+      ],
+      "cluster": [
+        "offender",
+        "lawbreaker",
+        "negligent"
+      ],
+      "letter": "D"
+    },
+    {
+      "id": "native",
+      "word": "Native",
+      "pos": "adjective / noun",
+      "ipa": "/ˈneɪtɪv/",
+      "bn": "/নেটিভ/",
+      "english": "Belonging to a particular place by birth or origin; a person born in a place.",
+      "banglaDefinition": "জন্মসূত্রে বা উৎপত্তিগতভাবে কোনো নির্দিষ্ট স্থানের সঙ্গে সম্পর্কিত।",
+      "banglaMeaning": "স্থানীয়, দেশীয়, জন্মগত",
+      "synonyms": [
+        "local",
+        "indigenous",
+        "inborn"
+      ],
+      "antonyms": [
+        "alien",
+        "foreign",
+        "imported"
+      ],
+      "example": "Bengali is my native language.",
+      "collocations": [
+        "native language",
+        "native speaker",
+        "native land"
+      ],
+      "cluster": [
+        "local",
+        "indigenous",
+        "domestic"
+      ],
+      "letter": "N"
+    },
+    {
+      "id": "ruthless",
+      "word": "Ruthless",
+      "pos": "adjective",
+      "ipa": "/ˈruːθləs/",
+      "bn": "/রুথলেস/",
+      "english": "Having no pity or compassion; cruel or determined without regard for others.",
+      "banglaDefinition": "যার মধ্যে দয়া বা মায়া নেই; নির্মম।",
+      "banglaMeaning": "নির্মম, নিষ্ঠুর, নির্দয়",
+      "synonyms": [
+        "merciless",
+        "cruel",
+        "pitiless"
+      ],
+      "antonyms": [
+        "merciful",
+        "compassionate",
+        "kind"
+      ],
+      "example": "The ruthless ruler ignored the suffering of the people.",
+      "collocations": [
+        "ruthless ambition",
+        "ruthless competition",
+        "ruthless decision"
+      ],
+      "cluster": [
+        "cruel",
+        "merciless",
+        "pitiless"
+      ],
+      "letter": "R"
+    },
+    {
+      "id": "combination",
+      "word": "Combination",
+      "pos": "noun",
+      "ipa": "/ˌkɒmbɪˈneɪʃən/",
+      "bn": "/কম্বিনেশন/",
+      "english": "A joining or mixture of two or more things.",
+      "banglaDefinition": "দুই বা ততোধিক জিনিস একত্রে মেশানো বা যুক্ত করার অবস্থা।",
+      "banglaMeaning": "সমন্বয়, সংমিশ্রণ, সমাহার",
+      "synonyms": [
+        "mixture",
+        "union",
+        "fusion"
+      ],
+      "antonyms": [
+        "separation",
+        "division",
+        "disunion"
+      ],
+      "example": "The dish is a combination of sweet and spicy flavours.",
+      "collocations": [
+        "a combination of",
+        "winning combination",
+        "unique combination"
+      ],
+      "cluster": [
+        "mixture",
+        "fusion",
+        "union"
+      ],
+      "letter": "C"
+    },
+    {
+      "id": "legendary",
+      "word": "Legendary",
+      "pos": "adjective",
+      "ipa": "/ˈledʒəndəri/",
+      "bn": "/লেজেন্ডারি/",
+      "english": "Famous or remarkable enough to be remembered in stories or legends.",
+      "banglaDefinition": "কিংবদন্তিতে স্থান পাওয়ার মতো বিখ্যাত বা অসাধারণ।",
+      "banglaMeaning": "কিংবদন্তিতুল্য, প্রবাদপ্রতিম",
+      "synonyms": [
+        "famous",
+        "renowned",
+        "mythical"
+      ],
+      "antonyms": [
+        "unknown",
+        "obscure",
+        "ordinary"
+      ],
+      "example": "The athlete became a legendary figure.",
+      "collocations": [
+        "legendary status",
+        "legendary figure",
+        "legendary performance"
+      ],
+      "cluster": [
+        "renowned",
+        "celebrated",
+        "famous"
+      ],
+      "letter": "L"
+    },
+    {
+      "id": "synergy",
+      "word": "Synergy",
+      "pos": "noun",
+      "ipa": "/ˈsɪnədʒi/",
+      "bn": "/সিনার্জি/",
+      "english": "The combined effect of people or things working together, greater than their separate effects.",
+      "banglaDefinition": "একসঙ্গে কাজ করার ফলে পৃথকভাবে কাজ করার তুলনায় বেশি কার্যকর ফল পাওয়া।",
+      "banglaMeaning": "সমন্বিত কার্যকারিতা, সম্মিলিত শক্তি",
+      "synonyms": [
+        "cooperation",
+        "alliance",
+        "teamwork"
+      ],
+      "antonyms": [
+        "conflict",
+        "antagonism",
+        "discord"
+      ],
+      "example": "The two departments created synergy through collaboration.",
+      "collocations": [
+        "create synergy",
+        "business synergy",
+        "team synergy"
+      ],
+      "cluster": [
+        "cooperation",
+        "collaboration",
+        "teamwork"
+      ],
+      "letter": "S"
+    },
+    {
+      "id": "courteous",
+      "word": "Courteous",
+      "pos": "adjective",
+      "ipa": "/ˈkɜːtiəs/",
+      "bn": "/কার্টিয়াস/",
+      "english": "Polite, respectful, and considerate in manner.",
+      "banglaDefinition": "আচরণে ভদ্র, সম্মানজনক ও বিবেচক।",
+      "banglaMeaning": "ভদ্র, বিনয়ী, সৌজন্যপূর্ণ",
+      "synonyms": [
+        "polite",
+        "civil",
+        "respectful"
+      ],
+      "antonyms": [
+        "rude",
+        "impolite",
+        "discourteous"
+      ],
+      "example": "The staff were courteous to every visitor.",
+      "collocations": [
+        "courteous service",
+        "courteous manner",
+        "courteous reply"
+      ],
+      "cluster": [
+        "polite",
+        "civil",
+        "respectful"
+      ],
+      "letter": "C"
+    },
+    {
+      "id": "modern",
+      "word": "Modern",
+      "pos": "adjective",
+      "ipa": "/ˈmɒdən/",
+      "bn": "/মডার্ন/",
+      "english": "Relating to the present or recent times; using current ideas or methods.",
+      "banglaDefinition": "বর্তমান বা সাম্প্রতিক সময়ের সঙ্গে সম্পর্কিত; আধুনিক পদ্ধতি বা ধারণাভিত্তিক।",
+      "banglaMeaning": "আধুনিক, সমসাময়িক",
+      "synonyms": [
+        "contemporary",
+        "current",
+        "up-to-date"
+      ],
+      "antonyms": [
+        "ancient",
+        "old-fashioned",
+        "outdated"
+      ],
+      "example": "The library has a modern digital catalogue.",
+      "collocations": [
+        "modern technology",
+        "modern society",
+        "modern architecture"
+      ],
+      "cluster": [
+        "contemporary",
+        "current",
+        "up-to-date"
+      ],
+      "letter": "M"
+    },
+    {
+      "id": "smart",
+      "word": "Smart",
+      "pos": "adjective",
+      "ipa": "/smɑːt/",
+      "bn": "/স্মার্ট/",
+      "english": "Intelligent or quick to learn; also neat and stylish in appearance.",
+      "banglaDefinition": "বুদ্ধিমান বা দ্রুত শেখার ক্ষমতাসম্পন্ন; আবার পরিপাটি ও রুচিশীলও বোঝায়।",
+      "banglaMeaning": "বুদ্ধিমান, চৌকস, পরিপাটি",
+      "synonyms": [
+        "clever",
+        "intelligent",
+        "sharp"
+      ],
+      "antonyms": [
+        "stupid",
+        "foolish",
+        "unintelligent"
+      ],
+      "example": "She is a smart student who asks thoughtful questions.",
+      "collocations": [
+        "smart decision",
+        "smart student",
+        "smart technology"
+      ],
+      "cluster": [
+        "clever",
+        "bright",
+        "intelligent"
+      ],
+      "letter": "S"
+    },
+    {
+      "id": "exhausted",
+      "word": "Exhausted",
+      "pos": "adjective",
+      "ipa": "/ɪɡˈzɔːstɪd/",
+      "bn": "/ইগজস্টেড/",
+      "english": "Extremely tired; or completely used up.",
+      "banglaDefinition": "অত্যন্ত ক্লান্ত অথবা সম্পূর্ণভাবে নিঃশেষিত।",
+      "banglaMeaning": "অবসন্ন, পরিশ্রান্ত, নিঃশেষিত",
+      "synonyms": [
+        "drained",
+        "tired",
+        "depleted"
+      ],
+      "antonyms": [
+        "energetic",
+        "refreshed",
+        "rested"
+      ],
+      "example": "After the long journey, everyone felt exhausted.",
+      "collocations": [
+        "physically exhausted",
+        "exhausted resources",
+        "completely exhausted"
+      ],
+      "cluster": [
+        "drained",
+        "weary",
+        "fatigued"
+      ],
+      "letter": "E"
+    },
+    {
+      "id": "well-mannered",
+      "word": "Well-mannered",
+      "pos": "adjective",
+      "ipa": "/ˌwel ˈmænəd/",
+      "bn": "/ওয়েল ম্যানার্ড/",
+      "english": "Having polite and socially appropriate behaviour.",
+      "banglaDefinition": "ভদ্র ও সামাজিকভাবে গ্রহণযোগ্য আচরণ করে এমন।",
+      "banglaMeaning": "সুশীল, ভদ্র, সদাচারী",
+      "synonyms": [
+        "polite",
+        "courteous",
+        "decorous"
+      ],
+      "antonyms": [
+        "rude",
+        "ill-mannered",
+        "discourteous"
+      ],
+      "example": "The well-mannered child thanked the teacher.",
+      "collocations": [
+        "well-mannered child",
+        "well-mannered behaviour"
+      ],
+      "cluster": [
+        "courteous",
+        "polite",
+        "decorous"
+      ],
+      "letter": "W"
+    },
+    {
+      "id": "revenge",
+      "word": "Revenge",
+      "pos": "noun / verb",
+      "ipa": "/rɪˈvendʒ/",
+      "bn": "/রিভেঞ্জ/",
+      "english": "The act of harming or punishing someone in return for an injury or wrong.",
+      "banglaDefinition": "কোনো অন্যায় বা ক্ষতির প্রতিশোধ হিসেবে পাল্টা ক্ষতি বা শাস্তি দেওয়া।",
+      "banglaMeaning": "প্রতিশোধ, প্রতিহিংসা",
+      "synonyms": [
+        "retaliation",
+        "reprisal",
+        "vengeance"
+      ],
+      "antonyms": [
+        "forgiveness",
+        "pardon",
+        "mercy"
+      ],
+      "example": "He chose forgiveness instead of revenge.",
+      "collocations": [
+        "take revenge",
+        "seek revenge",
+        "revenge for"
+      ],
+      "cluster": [
+        "vengeance",
+        "reprisal",
+        "retaliation"
+      ],
+      "letter": "R"
+    },
+    {
+      "id": "contempt",
+      "word": "Contempt",
+      "pos": "noun",
+      "ipa": "/kənˈtempt/",
+      "bn": "/কনটেম্পট/",
+      "english": "A feeling that someone or something is unworthy of respect.",
+      "banglaDefinition": "কাউকে বা কোনো কিছুকে সম্মানের অযোগ্য মনে করার অনুভূতি।",
+      "banglaMeaning": "অবজ্ঞা, তাচ্ছিল্য, ঘৃণা",
+      "synonyms": [
+        "disdain",
+        "scorn",
+        "disrespect"
+      ],
+      "antonyms": [
+        "respect",
+        "admiration",
+        "esteem"
+      ],
+      "example": "The official treated the complaint with contempt.",
+      "collocations": [
+        "contempt for",
+        "hold in contempt",
+        "court contempt"
+      ],
+      "cluster": [
+        "disdain",
+        "scorn",
+        "derision"
+      ],
+      "letter": "C"
+    },
+    {
+      "id": "contemptible",
+      "word": "Contemptible",
+      "pos": "adjective",
+      "ipa": "/kənˈtemptəbəl/",
+      "bn": "/কনটেম্পটিবল/",
+      "english": "Deserving contempt; despicable.",
+      "banglaDefinition": "অবজ্ঞা বা ঘৃণার যোগ্য; নীচ বা জঘন্য।",
+      "banglaMeaning": "ঘৃণ্য, নিন্দনীয়, অবজ্ঞার যোগ্য",
+      "synonyms": [
+        "despicable",
+        "disgraceful",
+        "base"
+      ],
+      "antonyms": [
+        "admirable",
+        "respectable",
+        "honourable"
+      ],
+      "example": "Taking credit for another person's work is contemptible.",
+      "collocations": [
+        "contemptible act",
+        "contemptible behaviour"
+      ],
+      "cluster": [
+        "despicable",
+        "vile",
+        "disgraceful"
+      ],
+      "letter": "C"
+    },
+    {
+      "id": "pragmatic",
+      "word": "Pragmatic",
+      "pos": "adjective",
+      "ipa": "/præɡˈmætɪk/",
+      "bn": "/প্র্যাগম্যাটিক/",
+      "english": "Dealing with problems in a practical and realistic way.",
+      "banglaDefinition": "বাস্তব পরিস্থিতি বিবেচনা করে কার্যকর ও বাস্তবসম্মত পদ্ধতি গ্রহণ করে এমন।",
+      "banglaMeaning": "বাস্তববাদী, ব্যবহারিক, কার্যকর",
+      "synonyms": [
+        "practical",
+        "realistic",
+        "sensible"
+      ],
+      "antonyms": [
+        "idealistic",
+        "impractical",
+        "unrealistic"
+      ],
+      "example": "We need a pragmatic solution to the problem.",
+      "collocations": [
+        "pragmatic approach",
+        "pragmatic solution",
+        "pragmatic decision"
+      ],
+      "cluster": [
+        "practical",
+        "realistic",
+        "sensible"
+      ],
+      "letter": "P"
+    },
+    {
+      "id": "refractory",
+      "word": "Refractory",
+      "pos": "adjective",
+      "ipa": "/rɪˈfræktəri/",
+      "bn": "/রিফ্র্যাক্টরি/",
+      "english": "Stubbornly disobedient or resistant to control; difficult to manage.",
+      "banglaDefinition": "একগুঁয়ে, অবাধ্য বা নিয়ন্ত্রণে আনতে কঠিন।",
+      "banglaMeaning": "অবাধ্য, একগুঁয়ে, নিয়ন্ত্রণ-অযোগ্য",
+      "synonyms": [
+        "stubborn",
+        "intractable",
+        "recalcitrant"
+      ],
+      "antonyms": [
+        "obedient",
+        "compliant",
+        "docile"
+      ],
+      "example": "The refractory child refused to follow instructions.",
+      "collocations": [
+        "refractory behaviour",
+        "refractory condition",
+        "refractory material"
+      ],
+      "cluster": [
+        "stubborn",
+        "recalcitrant",
+        "intractable"
+      ],
+      "letter": "R"
+    },
+    {
+      "id": "ability",
+      "word": "Ability",
+      "pos": "noun",
+      "ipa": "/əˈbɪləti/",
+      "bn": "/অ্যাবিলিটি/",
+      "english": "The power or skill to do something.",
+      "banglaDefinition": "কোনো কাজ করার ক্ষমতা বা দক্ষতা।",
+      "banglaMeaning": "ক্ষমতা, সামর্থ্য, যোগ্যতা",
+      "synonyms": [
+        "capability",
+        "skill",
+        "competence"
+      ],
+      "antonyms": [
+        "inability",
+        "incapacity",
+        "incompetence"
+      ],
+      "example": "The course develops the ability to communicate clearly.",
+      "collocations": [
+        "ability to learn",
+        "natural ability",
+        "mental ability"
+      ],
+      "cluster": [
+        "capability",
+        "competence",
+        "aptitude"
+      ],
+      "letter": "A"
+    },
+    {
+      "id": "bizarre",
+      "word": "Bizarre",
+      "pos": "adjective",
+      "ipa": "/bɪˈzɑː/",
+      "bn": "/বিজার/",
+      "english": "Very unusual, strange, or unexpected.",
+      "banglaDefinition": "অত্যন্ত অস্বাভাবিক, অদ্ভুত বা অপ্রত্যাশিত।",
+      "banglaMeaning": "অদ্ভুত, উদ্ভট, অস্বাভাবিক",
+      "synonyms": [
+        "strange",
+        "odd",
+        "eccentric"
+      ],
+      "antonyms": [
+        "normal",
+        "ordinary",
+        "typical"
+      ],
+      "example": "The story had a bizarre ending.",
+      "collocations": [
+        "bizarre incident",
+        "bizarre behaviour",
+        "bizarre appearance"
+      ],
+      "cluster": [
+        "strange",
+        "odd",
+        "peculiar"
+      ],
+      "letter": "B"
+    },
+    {
+      "id": "acclimatize",
+      "word": "Acclimatize",
+      "pos": "verb",
+      "ipa": "/əˈklaɪmətaɪz/",
+      "bn": "/অ্যাক্লাইমাটাইজ/",
+      "english": "To become accustomed to a new climate, environment, or situation.",
+      "banglaDefinition": "নতুন জলবায়ু, পরিবেশ বা পরিস্থিতির সঙ্গে নিজেকে মানিয়ে নেওয়া।",
+      "banglaMeaning": "অভ্যস্ত হওয়া, পরিবেশের সঙ্গে মানিয়ে নেওয়া",
+      "synonyms": [
+        "accustom",
+        "adapt",
+        "adjust"
+      ],
+      "antonyms": [
+        "disorient",
+        "misadjust"
+      ],
+      "example": "It took a few days to acclimatize to the mountain climate.",
+      "collocations": [
+        "acclimatize to",
+        "gradually acclimatize",
+        "acclimatize oneself"
+      ],
+      "cluster": [
+        "adapt",
+        "adjust",
+        "accustom"
+      ],
+      "letter": "A"
+    },
+    {
+      "id": "accustom",
+      "word": "Accustom",
+      "pos": "verb",
+      "ipa": "/əˈkʌstəm/",
+      "bn": "/অ্যাকাস্টম/",
+      "english": "To make someone familiar with something through repeated experience.",
+      "banglaDefinition": "বারবার অভিজ্ঞতার মাধ্যমে কাউকে কোনো কিছুর সঙ্গে অভ্যস্ত করে তোলা।",
+      "banglaMeaning": "অভ্যস্ত করানো, অভ্যাস করানো",
+      "synonyms": [
+        "habituate",
+        "acclimatize",
+        "adapt"
+      ],
+      "antonyms": [
+        "disaccustom",
+        "unfamiliarize"
+      ],
+      "example": "Students accustom themselves to a regular study routine.",
+      "collocations": [
+        "accustom oneself to",
+        "be accustomed to",
+        "accustom someone to"
+      ],
+      "cluster": [
+        "habituate",
+        "adapt",
+        "acclimatize"
+      ],
+      "letter": "A"
+    },
+    {
+      "id": "laud",
+      "word": "Laud",
+      "pos": "verb",
+      "ipa": "/lɔːd/",
+      "bn": "/লড/",
+      "english": "To praise someone or something highly.",
+      "banglaDefinition": "কাউকে বা কোনো কিছুকে উচ্চ প্রশংসা করা।",
+      "banglaMeaning": "প্রশংসা করা, স্তুতি করা",
+      "synonyms": [
+        "praise",
+        "commend",
+        "applaud"
+      ],
+      "antonyms": [
+        "criticize",
+        "condemn",
+        "abhor"
+      ],
+      "example": "The committee lauded the students for their efforts.",
+      "collocations": [
+        "laud an achievement",
+        "widely lauded",
+        "laud someone for"
+      ],
+      "cluster": [
+        "praise",
+        "commend",
+        "applaud"
+      ],
+      "letter": "L"
+    },
+    {
+      "id": "unwavering",
+      "word": "Unwavering",
+      "pos": "adjective",
+      "ipa": "/ʌnˈweɪvərɪŋ/",
+      "bn": "/আনওয়েভারিং/",
+      "english": "Steady, firm, and not changing or becoming weaker.",
+      "banglaDefinition": "দৃঢ় ও অবিচল, যা পরিবর্তিত বা দুর্বল হয় না।",
+      "banglaMeaning": "অবিচল, অটল, দৃঢ়",
+      "synonyms": [
+        "steady",
+        "constant",
+        "resolute"
+      ],
+      "antonyms": [
+        "wavering",
+        "uncertain",
+        "unsteady"
+      ],
+      "example": "She showed unwavering support for her team.",
+      "collocations": [
+        "unwavering support",
+        "unwavering commitment",
+        "unwavering faith"
+      ],
+      "cluster": [
+        "steadfast",
+        "constant",
+        "resolute"
+      ],
+      "letter": "U"
+    },
+    {
+      "id": "sovereignty",
+      "word": "Sovereignty",
+      "pos": "noun",
+      "ipa": "/ˈsɒvrɪnti/",
+      "bn": "/সভরেনটি/",
+      "english": "The authority of a state to govern itself independently.",
+      "banglaDefinition": "কোনো রাষ্ট্রের স্বাধীনভাবে নিজেকে পরিচালনা করার সর্বোচ্চ ক্ষমতা।",
+      "banglaMeaning": "সার্বভৌমত্ব",
+      "synonyms": [
+        "independence",
+        "autonomy",
+        "self-government"
+      ],
+      "antonyms": [
+        "dependence",
+        "subordination"
+      ],
+      "example": "The constitution protects national sovereignty.",
+      "collocations": [
+        "national sovereignty",
+        "state sovereignty",
+        "sovereignty of a country"
+      ],
+      "cluster": [
+        "independence",
+        "autonomy",
+        "self-rule"
+      ],
+      "letter": "S"
+    },
+    {
+      "id": "entrepreneur",
+      "word": "Entrepreneur",
+      "pos": "noun",
+      "ipa": "/ˌɒntrəprəˈnɜː/",
+      "bn": "/অনট্রাপ্রেনার/",
+      "english": "A person who starts and runs a business, taking on financial risks.",
+      "banglaDefinition": "যিনি ব্যবসা শুরু ও পরিচালনা করেন এবং আর্থিক ঝুঁকি গ্রহণ করেন।",
+      "banglaMeaning": "উদ্যোক্তা",
+      "synonyms": [
+        "business founder",
+        "businessperson",
+        "innovator"
+      ],
+      "antonyms": [
+        "employee",
+        "salaried worker"
+      ],
+      "example": "The young entrepreneur launched an education start-up.",
+      "collocations": [
+        "social entrepreneur",
+        "successful entrepreneur",
+        "entrepreneurial spirit"
+      ],
+      "cluster": [
+        "founder",
+        "businessperson",
+        "innovator"
+      ],
+      "letter": "E"
+    },
+    {
+      "id": "deceive",
+      "word": "Deceive",
+      "pos": "verb",
+      "ipa": "/dɪˈsiːv/",
+      "bn": "/ডিসিভ/",
+      "english": "To make someone believe something that is not true.",
+      "banglaDefinition": "মিথ্যা তথ্য বা আচরণের মাধ্যমে কাউকে ভুল বিশ্বাসে পরিচালিত করা।",
+      "banglaMeaning": "প্রতারণা করা, ধোঁকা দেওয়া",
+      "synonyms": [
+        "mislead",
+        "trick",
+        "fool"
+      ],
+      "antonyms": [
+        "inform",
+        "enlighten",
+        "be honest with"
+      ],
+      "example": "Do not deceive people with false promises.",
+      "collocations": [
+        "deceive someone into",
+        "deliberately deceive",
+        "deceive the public"
+      ],
+      "cluster": [
+        "mislead",
+        "trick",
+        "defraud"
+      ],
+      "letter": "D"
+    },
+    {
+      "id": "beneficial",
+      "word": "Beneficial",
+      "pos": "adjective",
+      "ipa": "/ˌbenɪˈfɪʃəl/",
+      "bn": "/বেনিফিশিয়াল/",
+      "english": "Producing a good or helpful effect.",
+      "banglaDefinition": "উপকারী বা ভালো ফল বয়ে আনে এমন।",
+      "banglaMeaning": "উপকারী, কল্যাণকর, লাভজনক",
+      "synonyms": [
+        "advantageous",
+        "helpful",
+        "useful"
+      ],
+      "antonyms": [
+        "harmful",
+        "detrimental",
+        "damaging"
+      ],
+      "example": "Regular reading is beneficial for vocabulary development.",
+      "collocations": [
+        "mutually beneficial",
+        "beneficial effect",
+        "beneficial to"
+      ],
+      "cluster": [
+        "helpful",
+        "useful",
+        "advantageous"
+      ],
+      "letter": "B"
+    },
+    {
+      "id": "recalcitrant",
+      "word": "Recalcitrant",
+      "pos": "adjective",
+      "ipa": "/rɪˈkælsɪtrənt/",
+      "bn": "/রিক্যালসিট্র্যান্ট/",
+      "english": "Stubbornly resistant to authority or control.",
+      "banglaDefinition": "কর্তৃত্ব বা নিয়ন্ত্রণ মানতে একগুঁয়েভাবে অস্বীকার করে এমন।",
+      "banglaMeaning": "অবাধ্য, একগুঁয়ে, বিদ্রোহী",
+      "synonyms": [
+        "mutinous",
+        "defiant",
+        "unruly"
+      ],
+      "antonyms": [
+        "compliant",
+        "obedient",
+        "docile"
+      ],
+      "example": "The recalcitrant student ignored repeated warnings.",
+      "collocations": [
+        "recalcitrant behaviour",
+        "recalcitrant employee",
+        "recalcitrant attitude"
+      ],
+      "cluster": [
+        "defiant",
+        "stubborn",
+        "refractory"
+      ],
+      "letter": "R"
+    },
+    {
+      "id": "harbinger",
+      "word": "Harbinger",
+      "pos": "noun",
+      "ipa": "/ˈhɑːbɪndʒə/",
+      "bn": "/হারবিঞ্জার/",
+      "english": "A person or thing that announces or signals what is coming.",
+      "banglaDefinition": "যে ব্যক্তি বা ঘটনা ভবিষ্যতে কী ঘটতে যাচ্ছে তার আগাম সংকেত দেয়।",
+      "banglaMeaning": "পূর্বলক্ষণ, অগ্রদূত, আগাম সংকেত",
+      "synonyms": [
+        "forerunner",
+        "precursor",
+        "herald"
+      ],
+      "antonyms": [
+        "follower",
+        "successor"
+      ],
+      "example": "Dark clouds were a harbinger of the storm.",
+      "collocations": [
+        "harbinger of change",
+        "harbinger of doom",
+        "early harbinger"
+      ],
+      "cluster": [
+        "precursor",
+        "forerunner",
+        "herald"
+      ],
+      "letter": "H"
+    },
+    {
+      "id": "elegy",
+      "word": "Elegy",
+      "pos": "noun",
+      "ipa": "/ˈelədʒi/",
+      "bn": "/এলিজি/",
+      "english": "A poem or song expressing sorrow, especially for someone who has died.",
+      "banglaDefinition": "বিশেষত মৃত ব্যক্তির জন্য শোক প্রকাশ করে এমন কবিতা বা গান।",
+      "banglaMeaning": "শোকগাথা, শোককবিতা",
+      "synonyms": [
+        "lament",
+        "dirge",
+        "threnody"
+      ],
+      "antonyms": [
+        "ode",
+        "celebration"
+      ],
+      "example": "The poet wrote an elegy for his friend.",
+      "collocations": [
+        "write an elegy",
+        "elegy for",
+        "mournful elegy"
+      ],
+      "cluster": [
+        "lament",
+        "dirge",
+        "threnody"
+      ],
+      "letter": "E"
+    },
+    {
+      "id": "polite",
+      "word": "Polite",
+      "pos": "adjective",
+      "ipa": "/pəˈlaɪt/",
+      "bn": "/পোলাইট/",
+      "english": "Having or showing good manners and respect for others.",
+      "banglaDefinition": "ভদ্র আচরণ ও অন্যের প্রতি সম্মান প্রদর্শন করে এমন।",
+      "banglaMeaning": "ভদ্র, বিনয়ী, শিষ্ট",
+      "synonyms": [
+        "courteous",
+        "civil",
+        "respectful"
+      ],
+      "antonyms": [
+        "rude",
+        "impolite",
+        "discourteous"
+      ],
+      "example": "Please be polite when asking for help.",
+      "collocations": [
+        "polite request",
+        "polite conversation",
+        "polite manner"
+      ],
+      "cluster": [
+        "courteous",
+        "civil",
+        "respectful"
+      ],
+      "letter": "P"
+    },
+    {
+      "id": "rotation",
+      "word": "Rotation",
+      "pos": "noun",
+      "ipa": "/rəʊˈteɪʃən/",
+      "bn": "/রোটেশন/",
+      "english": "The action of turning around an axis or centre; a regular sequence of changes.",
+      "banglaDefinition": "কোনো অক্ষ বা কেন্দ্রকে ঘিরে ঘোরা, অথবা নিয়মিত পালাক্রমে পরিবর্তন।",
+      "banglaMeaning": "ঘূর্ণন, আবর্তন, পর্যায়ক্রম",
+      "synonyms": [
+        "revolution",
+        "turning",
+        "cycle"
+      ],
+      "antonyms": [
+        "stillness",
+        "stasis"
+      ],
+      "example": "The rotation of Earth causes day and night.",
+      "collocations": [
+        "rotation of the Earth",
+        "job rotation",
+        "rotation period"
+      ],
+      "cluster": [
+        "revolution",
+        "turning",
+        "spin"
+      ],
+      "letter": "R"
+    },
+    {
+      "id": "rotationally",
+      "word": "Rotationally",
+      "pos": "adverb",
+      "ipa": "/rəʊˈteɪʃənəli/",
+      "bn": "/রোটেশনালি/",
+      "english": "In a manner relating to rotation or turning.",
+      "banglaDefinition": "ঘূর্ণন বা আবর্তনের সঙ্গে সম্পর্কিতভাবে।",
+      "banglaMeaning": "ঘূর্ণনগতভাবে, আবর্তন অনুসারে",
+      "synonyms": [
+        "in rotation",
+        "circularly"
+      ],
+      "antonyms": [],
+      "example": "The parts are rotationally aligned.",
+      "collocations": [
+        "rotationally symmetric",
+        "rotationally aligned"
+      ],
+      "cluster": [
+        "rotation",
+        "rotational",
+        "rotating"
+      ],
+      "letter": "R"
+    },
+    {
+      "id": "artisan",
+      "word": "Artisan",
+      "pos": "noun",
+      "ipa": "/ˈɑːtɪzæn/",
+      "bn": "/আর্টিজান/",
+      "english": "A skilled craft worker who makes things by hand.",
+      "banglaDefinition": "যিনি দক্ষতার সঙ্গে হাতে বিভিন্ন জিনিস তৈরি করেন।",
+      "banglaMeaning": "কারুশিল্পী, দক্ষ হস্তশিল্পী",
+      "synonyms": [
+        "craftsperson",
+        "craftsman",
+        "maker"
+      ],
+      "antonyms": [
+        "amateur"
+      ],
+      "example": "The artisan made a beautiful wooden chair.",
+      "collocations": [
+        "skilled artisan",
+        "local artisan",
+        "artisan craft"
+      ],
+      "cluster": [
+        "craftsperson",
+        "maker",
+        "craftsman"
+      ],
+      "letter": "A"
+    },
+    {
+      "id": "separate",
+      "word": "Separate",
+      "pos": "verb / adjective",
+      "ipa": "/ˈsepərət/ (adj), /ˈsepəreɪt/ (verb)",
+      "bn": "/সেপারেট/",
+      "english": "To divide or keep apart; not joined or connected.",
+      "banglaDefinition": "আলাদা করা বা পৃথক রাখা; একত্রে যুক্ত নয় এমন।",
+      "banglaMeaning": "আলাদা, পৃথক; পৃথক করা",
+      "synonyms": [
+        "divide",
+        "detach",
+        "distinct"
+      ],
+      "antonyms": [
+        "join",
+        "combine",
+        "unite"
+      ],
+      "example": "Keep the two documents in separate folders.",
+      "collocations": [
+        "separate from",
+        "separate issue",
+        "separate sections"
+      ],
+      "cluster": [
+        "distinct",
+        "apart",
+        "detached"
+      ],
+      "letter": "S"
+    },
+    {
+      "id": "excessive",
+      "word": "Excessive",
+      "pos": "adjective",
+      "ipa": "/ɪkˈsesɪv/",
+      "bn": "/এক্সেসিভ/",
+      "english": "More than is necessary, reasonable, or appropriate.",
+      "banglaDefinition": "প্রয়োজন, যুক্তি বা উপযুক্ততার তুলনায় অতিরিক্ত।",
+      "banglaMeaning": "অতিরিক্ত, অত্যধিক, মাত্রাতিরিক্ত",
+      "synonyms": [
+        "exorbitant",
+        "undue",
+        "extreme"
+      ],
+      "antonyms": [
+        "moderate",
+        "reasonable",
+        "limited"
+      ],
+      "example": "Excessive screen time can interrupt sleep.",
+      "collocations": [
+        "excessive use",
+        "excessive force",
+        "excessive spending"
+      ],
+      "cluster": [
+        "undue",
+        "extreme",
+        "immoderate"
+      ],
+      "letter": "E"
+    },
+    {
+      "id": "extraordinary",
+      "word": "Extraordinary",
+      "pos": "adjective",
+      "ipa": "/ɪkˈstrɔːdnri/",
+      "bn": "/এক্সট্রঅর্ডিনারি/",
+      "english": "Very unusual, remarkable, or much greater than normal.",
+      "banglaDefinition": "সাধারণের তুলনায় অত্যন্ত অসাধারণ বা ব্যতিক্রমী।",
+      "banglaMeaning": "অসাধারণ, ব্যতিক্রমী, বিস্ময়কর",
+      "synonyms": [
+        "remarkable",
+        "exceptional",
+        "unusual"
+      ],
+      "antonyms": [
+        "ordinary",
+        "commonplace",
+        "usual"
+      ],
+      "example": "She showed extraordinary dedication to her studies.",
+      "collocations": [
+        "extraordinary effort",
+        "extraordinary achievement",
+        "extraordinary talent"
+      ],
+      "cluster": [
+        "remarkable",
+        "exceptional",
+        "unusual"
+      ],
+      "letter": "E"
+    },
+    {
+      "id": "seldom",
+      "word": "Seldom",
+      "pos": "adverb",
+      "ipa": "/ˈseldəm/",
+      "bn": "/সেলডম/",
+      "english": "Not often; rarely.",
+      "banglaDefinition": "খুব কম সময়ে ঘটে বা করা হয় এমন।",
+      "banglaMeaning": "কদাচিৎ, খুব কমই",
+      "synonyms": [
+        "rarely",
+        "infrequently",
+        "hardly ever"
+      ],
+      "antonyms": [
+        "often",
+        "frequently",
+        "usually"
+      ],
+      "example": "He seldom misses a class.",
+      "collocations": [
+        "seldom seen",
+        "seldom used",
+        "seldom if ever"
+      ],
+      "cluster": [
+        "rarely",
+        "infrequently",
+        "occasionally"
+      ],
+      "letter": "S"
+    },
+    {
+      "id": "grievance",
+      "word": "Grievance",
+      "pos": "noun",
+      "ipa": "/ˈɡriːvəns/",
+      "bn": "/গ্রিভ্যান্স/",
+      "english": "A real or imagined cause for complaint or resentment.",
+      "banglaDefinition": "অভিযোগ বা অসন্তোষের কারণ, বিশেষত অন্যায় আচরণ থেকে সৃষ্টি হওয়া।",
+      "banglaMeaning": "অভিযোগ, ক্ষোভ, অসন্তোষ",
+      "synonyms": [
+        "complaint",
+        "resentment",
+        "injustice"
+      ],
+      "antonyms": [
+        "satisfaction",
+        "contentment"
+      ],
+      "example": "Employees submitted a formal grievance.",
+      "collocations": [
+        "file a grievance",
+        "grievance procedure",
+        "air a grievance"
+      ],
+      "cluster": [
+        "complaint",
+        "resentment",
+        "grudge"
+      ],
+      "letter": "G"
+    },
+    {
+      "id": "coinage",
+      "word": "Coinage",
+      "pos": "noun",
+      "ipa": "/ˈkɔɪnɪdʒ/",
+      "bn": "/কয়েনেজ/",
+      "english": "The making of coins; a system of coins; or the creation of a new word or expression.",
+      "banglaDefinition": "মুদ্রা তৈরি বা মুদ্রাব্যবস্থা; নতুন শব্দ বা অভিব্যক্তি সৃষ্টি।",
+      "banglaMeaning": "মুদ্রা নির্মাণ, মুদ্রাব্যবস্থা, নতুন শব্দসৃষ্টি",
+      "synonyms": [
+        "currency",
+        "minting",
+        "word formation"
+      ],
+      "antonyms": [
+        "demonetization"
+      ],
+      "example": "The coinage of new technical terms can be confusing.",
+      "collocations": [
+        "new coinage",
+        "coinage of words",
+        "metal coinage"
+      ],
+      "cluster": [
+        "currency",
+        "minting",
+        "neologism"
+      ],
+      "letter": "C"
+    },
+    {
+      "id": "urbane",
+      "word": "Urbane",
+      "pos": "adjective",
+      "ipa": "/ɜːˈbeɪn/",
+      "bn": "/আরবেন/",
+      "english": "Suave, polished, and confident in social situations.",
+      "banglaDefinition": "সামাজিক আচরণে মার্জিত, পরিশীলিত ও আত্মবিশ্বাসী।",
+      "banglaMeaning": "মার্জিত, পরিশীলিত, রুচিশীল",
+      "synonyms": [
+        "suave",
+        "sophisticated",
+        "polished"
+      ],
+      "antonyms": [
+        "uncouth",
+        "awkward",
+        "rude"
+      ],
+      "example": "The urbane host welcomed every guest.",
+      "collocations": [
+        "urbane manner",
+        "urbane gentleman",
+        "urbane style"
+      ],
+      "cluster": [
+        "suave",
+        "polished",
+        "sophisticated"
+      ],
+      "letter": "U"
+    },
+    {
+      "id": "ascent",
+      "word": "Ascent",
+      "pos": "noun",
+      "ipa": "/əˈsent/",
+      "bn": "/অ্যাসেন্ট/",
+      "english": "An upward movement or climb; a rise to a higher position.",
+      "banglaDefinition": "উপরে ওঠা বা উচ্চতর অবস্থানে আরোহণ।",
+      "banglaMeaning": "আরোহণ, ঊর্ধ্বগমন, উত্থান",
+      "synonyms": [
+        "climb",
+        "rise",
+        "upward movement"
+      ],
+      "antonyms": [
+        "descent",
+        "decline",
+        "fall"
+      ],
+      "example": "The ascent to the summit was difficult.",
+      "collocations": [
+        "steep ascent",
+        "ascent to power",
+        "rapid ascent"
+      ],
+      "cluster": [
+        "climb",
+        "rise",
+        "uplift"
+      ],
+      "letter": "A"
+    },
+    {
+      "id": "concord",
+      "word": "Concord",
+      "pos": "noun",
+      "ipa": "/ˈkɒŋkɔːd/",
+      "bn": "/কনকর্ড/",
+      "english": "Agreement, harmony, or peaceful relations.",
+      "banglaDefinition": "মতৈক্য, সম্প্রীতি বা শান্তিপূর্ণ সম্পর্ক।",
+      "banglaMeaning": "সম্প্রীতি, ঐক্য, মতৈক্য",
+      "synonyms": [
+        "harmony",
+        "agreement",
+        "accord"
+      ],
+      "antonyms": [
+        "conflict",
+        "discord",
+        "disagreement"
+      ],
+      "example": "The neighbours lived in concord.",
+      "collocations": [
+        "live in concord",
+        "concord between",
+        "spirit of concord"
+      ],
+      "cluster": [
+        "harmony",
+        "accord",
+        "agreement"
+      ],
+      "letter": "C"
+    },
+    {
+      "id": "cop",
+      "word": "Cop",
+      "pos": "noun / verb",
+      "ipa": "/kɒp/",
+      "bn": "/কপ/",
+      "english": "Informal word for a police officer; as a verb, to obtain or receive something.",
+      "banglaDefinition": "পুলিশ কর্মকর্তাকে বোঝানোর অনানুষ্ঠানিক শব্দ; ক্রিয়া হিসেবে কিছু পাওয়া বা গ্রহণ করা।",
+      "banglaMeaning": "পুলিশ, পুলিশ কর্মকর্তা; পাওয়া",
+      "synonyms": [
+        "police officer",
+        "policeman",
+        "constable"
+      ],
+      "antonyms": [],
+      "example": "A cop directed traffic near the school.",
+      "collocations": [
+        "traffic cop",
+        "cop a plea",
+        "cop an attitude"
+      ],
+      "cluster": [
+        "policeman",
+        "constable",
+        "officer"
+      ],
+      "letter": "C"
+    },
+    {
+      "id": "termination",
+      "word": "Termination",
+      "pos": "noun",
+      "ipa": "/ˌtɜːmɪˈneɪʃən/",
+      "bn": "/টার্মিনেশন/",
+      "english": "The action or process of bringing something to an end.",
+      "banglaDefinition": "কোনো কাজ, অবস্থা বা চুক্তির সমাপ্তি ঘটানোর প্রক্রিয়া।",
+      "banglaMeaning": "সমাপ্তি, অবসান, পরিসমাপ্তি",
+      "synonyms": [
+        "ending",
+        "conclusion",
+        "cessation"
+      ],
+      "antonyms": [
+        "beginning",
+        "commencement",
+        "start"
+      ],
+      "example": "The termination of the contract was announced.",
+      "collocations": [
+        "early termination",
+        "termination date",
+        "termination of employment"
+      ],
+      "cluster": [
+        "ending",
+        "conclusion",
+        "cessation"
+      ],
+      "letter": "T"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "horse-mouth",
+      "phrase": "From the horse's mouth",
+      "type": "Idiom",
+      "meaning": "From the original or most reliable source.",
+      "bangla": "সরাসরি নির্ভরযোগ্য বা মূল সূত্র থেকে।",
+      "example": "I heard the news straight from the horse’s mouth.",
+      "relatedExamIds": [
+        "MED-03",
+        "MEDH-2025-01"
+      ]
+    },
+    {
+      "id": "look-down-upon",
+      "phrase": "Look down upon",
+      "type": "Phrasal verb",
+      "meaning": "To consider someone inferior or unworthy of respect.",
+      "bangla": "কাউকে তুচ্ছ বা হীন মনে করা।",
+      "example": "We should never look down upon others.",
+      "relatedExamIds": [
+        "MED-04"
+      ]
+    },
+    {
+      "id": "make-out",
+      "phrase": "Make out",
+      "type": "Phrasal verb",
+      "meaning": "To see, hear, or understand something with difficulty; to discern.",
+      "bangla": "কষ্ট করে বুঝতে বা শনাক্ত করতে পারা।",
+      "example": "I could barely make out the sign in the fog.",
+      "relatedExamIds": [
+        "MED-07"
+      ]
+    },
+    {
+      "id": "take-to-task",
+      "phrase": "Take someone to task",
+      "type": "Idiom",
+      "meaning": "To criticize or reprimand someone for something they have done.",
+      "bangla": "কোনো কাজের জন্য কাউকে তিরস্কার করা।",
+      "example": "The teacher took him to task for being late.",
+      "relatedExamIds": [
+        "MED-10"
+      ]
+    },
+    {
+      "id": "in-a-fix",
+      "phrase": "In a fix",
+      "type": "Idiom",
+      "meaning": "In a difficult or awkward situation.",
+      "bangla": "বিপাকে বা কঠিন অবস্থায় পড়া।",
+      "example": "Without the address, we were in a fix.",
+      "relatedExamIds": [
+        "GSTB-01"
+      ]
+    },
+    {
+      "id": "smell-a-rat",
+      "phrase": "Smell a rat",
+      "type": "Idiom",
+      "meaning": "To suspect that something is wrong or dishonest.",
+      "bangla": "কোনো ব্যাপারে সন্দেহ হওয়া বা গণ্ডগোলের আভাস পাওয়া।",
+      "example": "I smell a rat in this deal.",
+      "relatedExamIds": [
+        "GSTB-03"
+      ]
+    },
+    {
+      "id": "give-a-hand",
+      "phrase": "Give a hand",
+      "type": "Idiom",
+      "meaning": "To help someone.",
+      "bangla": "কাউকে সাহায্য করা।",
+      "example": "Could you give me a hand with these books?",
+      "relatedExamIds": [
+        "GSTB-05"
+      ]
+    },
+    {
+      "id": "alls-well",
+      "phrase": "All's well that ends well",
+      "type": "Proverb",
+      "meaning": "A successful outcome can make earlier difficulties seem acceptable.",
+      "bangla": "শেষ ভালো যার, সব ভালো তার।",
+      "example": "The project was difficult, but it succeeded. All’s well that ends well.",
+      "relatedExamIds": [
+        "MEDH-1994-01"
+      ]
+    },
+    {
+      "id": "death-has-no-timetable",
+      "phrase": "Death has no timetable",
+      "type": "Proverb / translation",
+      "meaning": "Death can happen at any time; it does not follow a schedule.",
+      "bangla": "মৃত্যুর নির্দিষ্ট সময়সূচি নেই।",
+      "example": "The old proverb reminds us that death has no timetable.",
+      "relatedExamIds": [
+        "MEDH-1998-01"
+      ]
+    },
+    {
+      "id": "look-into",
+      "phrase": "Look into",
+      "type": "Phrasal verb",
+      "meaning": "To investigate or examine something.",
+      "bangla": "তদন্ত করা, খতিয়ে দেখা।",
+      "example": "The committee will look into the complaint.",
+      "relatedExamIds": [
+        "MEDH-2002-01"
+      ]
+    },
+    {
+      "id": "cry-over-spilt-milk",
+      "phrase": "Cry over spilt milk",
+      "type": "Idiom",
+      "meaning": "To waste time regretting something that cannot be changed.",
+      "bangla": "যা হয়ে গেছে তা নিয়ে অনর্থক অনুতাপ করা।",
+      "example": "The mistake is over, so there is no use crying over spilt milk.",
+      "relatedExamIds": [
+        "MEDH-2003-01"
+      ]
+    },
+    {
+      "id": "catch-at-a-straw",
+      "phrase": "Catch at a straw",
+      "type": "Idiom",
+      "meaning": "To seize even a small or unlikely hope when in difficulty.",
+      "bangla": "বিপদের সময় সামান্য আশাকেও আঁকড়ে ধরা।",
+      "example": "He was so desperate that he caught at a straw.",
+      "relatedExamIds": [
+        "MEDH-2003-02"
+      ]
+    },
+    {
+      "id": "catch-up-with",
+      "phrase": "Catch up with",
+      "type": "Phrasal verb",
+      "meaning": "To reach the same level, position, or progress as someone or something.",
+      "bangla": "সমপর্যায়ে পৌঁছানো, ব্যবধান পূরণ করা।",
+      "example": "The team worked hard to catch up with its competitors.",
+      "relatedExamIds": [
+        "MEDH-2009-01"
+      ]
+    },
+    {
+      "id": "without-issue",
+      "phrase": "Without issue",
+      "type": "Expression",
+      "meaning": "Without children; historically used in legal or formal contexts.",
+      "bangla": "সন্তানহীন।",
+      "example": "The historical document stated that the couple died without issue.",
+      "relatedExamIds": [
+        "MEDH-2014-01"
+      ]
+    },
+    {
+      "id": "white-elephant",
+      "phrase": "White elephant",
+      "type": "Idiom",
+      "meaning": "A costly possession or project that is difficult to maintain and offers little practical value.",
+      "bangla": "ব্যয়বহুল অথচ তেমন উপকারে আসে না এমন সম্পদ বা প্রকল্প।",
+      "example": "The unused stadium became a white elephant.",
+      "relatedExamIds": [
+        "MEDH-2014-02"
+      ]
+    },
+    {
+      "id": "give-up",
+      "phrase": "Give up",
+      "type": "Phrasal verb",
+      "meaning": "To stop trying or to stop doing something.",
+      "bangla": "হাল ছেড়ে দেওয়া, ত্যাগ করা।",
+      "example": "Do not give up when a subject becomes difficult.",
+      "relatedExamIds": [
+        "MEDH-2014-03"
+      ]
+    },
+    {
+      "id": "some-time",
+      "phrase": "Some time",
+      "type": "Expression",
+      "meaning": "A period of time, rather than an unspecified occasion.",
+      "bangla": "কিছু সময়, একটি নির্দিষ্ট সময়কাল।",
+      "example": "I spent some time with the patient.",
+      "relatedExamIds": [
+        "MEDH-2015-07"
+      ]
+    },
+    {
+      "id": "for-a-long-time",
+      "phrase": "For a long time",
+      "type": "Expression",
+      "meaning": "For a long period; over an extended duration.",
+      "bangla": "দীর্ঘ সময় ধরে।",
+      "example": "I have not heard from him for a long time.",
+      "relatedExamIds": [
+        "MEDH-2020-07"
+      ]
+    },
+    {
+      "id": "look-for",
+      "phrase": "Look for",
+      "type": "Phrasal verb",
+      "meaning": "To search for or try to find someone or something.",
+      "bangla": "খোঁজা, সন্ধান করা।",
+      "example": "I am looking for a good job.",
+      "relatedExamIds": [
+        "MEDH-2005-01"
+      ]
+    },
+    {
+      "id": "fight-shy-of",
+      "phrase": "Fight shy of",
+      "type": "Idiom",
+      "meaning": "To avoid or be reluctant to do something.",
+      "bangla": "এড়িয়ে চলা, কোনো কিছু করতে অনীহা প্রকাশ করা।",
+      "example": "She does not fight shy of difficult questions.",
+      "relatedExamIds": [
+        "MEDH-2015-03"
+      ]
+    },
+    {
+      "id": "take-one-to-task",
+      "phrase": "Take someone to task",
+      "type": "Idiom",
+      "meaning": "To criticize or reprimand someone for something they have done.",
+      "bangla": "কোনো কাজের জন্য কাউকে তিরস্কার করা।",
+      "example": "The teacher took him to task for arriving late.",
+      "relatedExamIds": [
+        "MEDH-2015-04"
+      ]
+    },
+    {
+      "id": "call-in",
+      "phrase": "Call in",
+      "type": "Phrasal verb",
+      "meaning": "To ask someone to come and help or attend, often professionally.",
+      "bangla": "কাউকে ডেকে পাঠানো, উপস্থিত হতে বলা।",
+      "example": "They had to call in a specialist.",
+      "relatedExamIds": [
+        "MEDH-2017-01",
+        "MEDH-2017-03"
+      ]
+    },
+    {
+      "id": "where-there-is-a-will",
+      "phrase": "Where there is a will, there is a way",
+      "type": "Proverb",
+      "meaning": "Determination makes it possible to overcome difficulties.",
+      "bangla": "ইচ্ছা থাকলে উপায় হয়।",
+      "example": "Keep trying. Where there is a will, there is a way.",
+      "relatedExamIds": [
+        "MEDH-2018-01"
+      ]
+    },
+    {
+      "id": "read-between-lines",
+      "phrase": "Read between the lines",
+      "type": "Idiom",
+      "meaning": "To understand a meaning that is suggested but not stated directly.",
+      "bangla": "কথার অন্তর্নিহিত বা ইঙ্গিতপূর্ণ অর্থ বুঝতে পারা।",
+      "example": "Read between the lines to understand what the writer really means.",
+      "relatedExamIds": [
+        "MEDH-2021-01",
+        "MEDH-2023-01"
+      ]
+    },
+    {
+      "id": "pull-out-all-stops",
+      "phrase": "Pull out all the stops",
+      "type": "Idiom",
+      "meaning": "To make every possible effort to achieve something.",
+      "bangla": "সাফল্যের জন্য সর্বোচ্চ চেষ্টা করা।",
+      "example": "The team pulled out all the stops to finish on time.",
+      "relatedExamIds": [
+        "MEDH-2021-02"
+      ]
+    },
+    {
+      "id": "kith-and-kin",
+      "phrase": "Kith and kin",
+      "type": "Idiom",
+      "meaning": "Friends and relatives; people close to someone.",
+      "bangla": "আত্মীয়স্বজন ও আপনজন।",
+      "example": "She invited all her kith and kin to the celebration.",
+      "relatedExamIds": [
+        "MEDH-2022-01"
+      ]
+    },
+    {
+      "id": "cut-down",
+      "phrase": "Cut down",
+      "type": "Phrasal verb",
+      "meaning": "To reduce the amount, number, or size of something.",
+      "bangla": "কমানো, হ্রাস করা।",
+      "example": "You should cut down your unnecessary expenses.",
+      "relatedExamIds": [
+        "MEDH-2020-01"
+      ]
+    },
+    {
+      "id": "look-up",
+      "phrase": "Look up",
+      "type": "Phrasal verb",
+      "meaning": "To search for information in a reference source.",
+      "bangla": "অভিধান বা তথ্যসূত্রে খুঁজে দেখা।",
+      "example": "Look up the unfamiliar word in a dictionary.",
+      "relatedExamIds": [
+        "MEDH-2020-02",
+        "MEDH-2020-08"
+      ]
+    },
+    {
+      "id": "by-dint-of",
+      "phrase": "By dint of",
+      "type": "Expression",
+      "meaning": "By means of; through persistent effort.",
+      "bangla": "মাধ্যমে, প্রচেষ্টার দ্বারা।",
+      "example": "She succeeded by dint of hard work.",
+      "relatedExamIds": [
+        "MEDH-2024-01",
+        "MEDH-2024-03"
+      ]
+    },
+    {
+      "id": "made-up-of",
+      "phrase": "Made up of",
+      "type": "Expression",
+      "meaning": "Consisting of or formed from particular parts.",
+      "bangla": "দিয়ে গঠিত, নিয়ে তৈরি।",
+      "example": "The committee is made up of five members.",
+      "relatedExamIds": [
+        "MEDH-2025-01"
+      ]
+    },
+    {
+      "id": "hanker-after",
+      "phrase": "Hanker after",
+      "type": "Phrasal verb",
+      "meaning": "To have a strong desire for something.",
+      "bangla": "কোনো কিছুর জন্য প্রবল আকাঙ্ক্ষা করা।",
+      "example": "He hankers after recognition.",
+      "relatedExamIds": [
+        "MEDH-2011-01",
+        "MEDH-2011-03"
+      ]
+    },
+    {
+      "id": "add-fuel-to-fire",
+      "phrase": "Add fuel to the fire",
+      "type": "Idiom",
+      "meaning": "To make an already bad or tense situation worse.",
+      "bangla": "আগুনে ঘি ঢালা, পরিস্থিতি আরও খারাপ করা।",
+      "example": "His angry reply only added fuel to the fire.",
+      "relatedExamIds": []
+    },
+    {
+      "id": "carry-coals-to-newcastle",
+      "phrase": "Carry coals to Newcastle",
+      "type": "Idiom",
+      "meaning": "To do something unnecessary because it is already plentiful or readily available.",
+      "bangla": "যেখানে কোনো জিনিস প্রচুর আছে, সেখানে তা নিয়ে যাওয়া।",
+      "example": "Selling ice to people in the Arctic would be carrying coals to Newcastle.",
+      "relatedExamIds": []
+    },
+    {
+      "id": "practice-makes-perfect",
+      "phrase": "Practice makes perfect",
+      "type": "Proverb",
+      "meaning": "Repeated practice improves skill and performance.",
+      "bangla": "অনুশীলন মানুষকে দক্ষ করে তোলে।",
+      "example": "Keep working on your pronunciation. Practice makes perfect.",
+      "relatedExamIds": []
+    },
+    {
+      "id": "strike-while-iron-hot",
+      "phrase": "Strike while the iron is hot",
+      "type": "Proverb",
+      "meaning": "Take advantage of an opportunity while it is available.",
+      "bangla": "সুযোগ থাকতে থাকতে কাজে লাগানো।",
+      "example": "Apply while the scholarship is open. Strike while the iron is hot.",
+      "relatedExamIds": []
+    },
+    {
+      "id": "all-that-glitters",
+      "phrase": "All that glitters is not gold",
+      "type": "Proverb",
+      "meaning": "Appearances can be deceptive; attractive things may not be valuable.",
+      "bangla": "চকচক করলেই সোনা হয় না।",
+      "example": "The offer looked perfect, but all that glitters is not gold.",
+      "relatedExamIds": []
+    }
+  ],
+  "questions": [
+    {
+      "id": "MED-01",
+      "category": "Medical Admission",
+      "exam": "Medical Admission Test",
+      "session": "2025–26",
+      "unit": "National Medical Admission",
+      "wordId": "immoral",
+      "kind": "Word formation / prefix",
+      "prompt": "Identify the word containing the prefix im-.",
+      "options": [
+        "Immoral",
+        "Immediate",
+        "Immense",
+        "Important"
+      ],
+      "answer": 0,
+      "answerText": "Immoral",
+      "note": "Draft question transcription. Confirm the exact original options against the question paper.",
+      "status": "Draft transcription",
+      "source": "https://englearners.com/index.php/medical-admission-test-2025-26/",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "MED-02",
+      "category": "Medical Admission",
+      "exam": "Medical Admission Test",
+      "session": "2025–26",
+      "unit": "National Medical Admission",
+      "wordId": "irritable",
+      "kind": "Word formation / prefix",
+      "prompt": "Identify the word that does not contain the prefix ir-.",
+      "options": [
+        "Irrational",
+        "Irritable",
+        "Irresponsible",
+        "Irregular"
+      ],
+      "answer": 1,
+      "answerText": "Irritable",
+      "note": "The supplied answer key identifies Irritable. Morphological analysis should be checked carefully.",
+      "status": "Needs answer verification",
+      "source": "https://englearners.com/index.php/medical-admission-test-2025-26/",
+      "sourceStatus": "Needs answer verification"
+    },
+    {
+      "id": "MED-03",
+      "category": "Medical Admission",
+      "exam": "Medical Admission Test",
+      "session": "2025–26",
+      "unit": "National Medical Admission",
+      "phraseId": "horse-mouth",
+      "kind": "Idiom meaning",
+      "prompt": "What does the idiom ‘from the horse's mouth’ mean?",
+      "options": [
+        "From an authentic source",
+        "From a doubtful source",
+        "From an open source",
+        "From an unreliable source"
+      ],
+      "answer": 0,
+      "answerText": "From an authentic source",
+      "note": "Draft option transcription. Verify against original paper.",
+      "status": "Draft transcription",
+      "source": "https://englearners.com/index.php/medical-admission-test-2025-26/",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "MED-04",
+      "category": "Medical Admission",
+      "exam": "Medical Admission Test",
+      "session": "2025–26",
+      "unit": "National Medical Admission",
+      "phraseId": "look-down-upon",
+      "kind": "Phrasal verb",
+      "prompt": "Choose the correct completion of the expression meaning to regard someone as inferior: “look down ___”.",
+      "options": [
+        "at",
+        "to",
+        "about",
+        "upon"
+      ],
+      "answer": 3,
+      "answerText": "upon",
+      "note": "Question wording is reconstructed from the earlier transcription. Verify exact original wording and options.",
+      "status": "Draft transcription",
+      "source": "https://englearners.com/index.php/medical-admission-test-2025-26/",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "MED-05",
+      "category": "Medical Admission",
+      "exam": "Medical Admission Test",
+      "session": "2025–26",
+      "unit": "National Medical Admission",
+      "wordId": "bankrupt",
+      "kind": "Word meaning",
+      "prompt": "Which word describes a person or business unable to repay debts?",
+      "options": [
+        "Poor",
+        "Cheat",
+        "Miser",
+        "Bankrupt"
+      ],
+      "answer": 3,
+      "answerText": "Bankrupt",
+      "note": "Draft option transcription. Verify exact original question wording.",
+      "status": "Draft transcription",
+      "source": "https://englearners.com/index.php/medical-admission-test-2025-26/",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "MED-06",
+      "category": "Medical Admission",
+      "exam": "Medical Admission Test",
+      "session": "2025–26",
+      "unit": "National Medical Admission",
+      "wordId": "ideal",
+      "kind": "Synonym",
+      "prompt": "Select the closest synonym of IDEAL.",
+      "options": [
+        "Correct",
+        "Perfect",
+        "Good",
+        "Appropriate"
+      ],
+      "answer": 1,
+      "answerText": "Perfect",
+      "note": "Draft option transcription. Verify against original paper.",
+      "status": "Draft transcription",
+      "source": "https://englearners.com/index.php/medical-admission-test-2025-26/",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "MED-07",
+      "category": "Medical Admission",
+      "exam": "Medical Admission Test",
+      "session": "2025–26",
+      "unit": "National Medical Admission",
+      "phraseId": "make-out",
+      "kind": "Phrasal verb meaning",
+      "prompt": "A person can hardly make out traffic signs through fog. What does “make out” mean here?",
+      "options": [
+        "Recognize",
+        "Distinguish",
+        "Locate",
+        "Obey"
+      ],
+      "answer": 1,
+      "answerText": "Distinguish",
+      "note": "Draft option transcription. The phrasal verb can mean discern or see.",
+      "status": "Draft transcription",
+      "source": "https://englearners.com/index.php/medical-admission-test-2025-26/",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "MED-08",
+      "category": "Medical Admission",
+      "exam": "Medical Admission Test",
+      "session": "2025–26",
+      "unit": "National Medical Admission",
+      "wordId": "mobilized",
+      "kind": "Meaning in context",
+      "prompt": "Funds were mobilized for the treatment. What does “mobilized” mean in this context?",
+      "options": [
+        "Spent",
+        "Gave",
+        "Allocated",
+        "Collected"
+      ],
+      "answer": 3,
+      "answerText": "Collected",
+      "note": "Draft option transcription. Context can affect the best translation.",
+      "status": "Draft transcription",
+      "source": "https://englearners.com/index.php/medical-admission-test-2025-26/",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "MED-09",
+      "category": "Medical Admission",
+      "exam": "Medical Admission Test",
+      "session": "2025–26",
+      "unit": "National Medical Admission",
+      "wordId": "habit",
+      "kind": "Word form",
+      "prompt": "Identify the verb form related to HABIT.",
+      "options": [
+        "Habitual",
+        "Habituate",
+        "Habitable",
+        "Habitat"
+      ],
+      "answer": 1,
+      "answerText": "Habituate",
+      "note": "Draft option transcription. Verify exact source wording.",
+      "status": "Draft transcription",
+      "source": "https://englearners.com/index.php/medical-admission-test-2025-26/",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "MED-10",
+      "category": "Medical Admission",
+      "exam": "Medical Admission Test",
+      "session": "2025–26",
+      "unit": "National Medical Admission",
+      "phraseId": "take-to-task",
+      "kind": "Idiom / preposition",
+      "prompt": "Choose the correct preposition: “take someone ___ task”.",
+      "options": [
+        "For",
+        "At",
+        "To",
+        "By"
+      ],
+      "answer": 2,
+      "answerText": "To",
+      "note": "Draft option transcription. Verify exact original item.",
+      "status": "Draft transcription",
+      "source": "https://englearners.com/index.php/medical-admission-test-2025-26/",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "GSTB-01",
+      "category": "GST Admission",
+      "exam": "GST Integrated Admission",
+      "session": "2025–26",
+      "unit": "Unit B",
+      "phraseId": "in-a-fix",
+      "kind": "Idiom meaning",
+      "prompt": "What does the phrase “in a fix” mean?",
+      "options": [
+        "Being physically trapped",
+        "Being confused but calm",
+        "Being in a difficult situation",
+        "Being temporarily delayed"
+      ],
+      "answer": 2,
+      "answerText": "Being in a difficult situation",
+      "note": "Draft option transcription. Verify exact original options.",
+      "status": "Draft transcription",
+      "source": "https://somadhan.app/admission-questions/university/gst-b/2025-26/english-2nd-paper",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "GSTB-02",
+      "category": "GST Admission",
+      "exam": "GST Integrated Admission",
+      "session": "2025–26",
+      "unit": "Unit B",
+      "wordId": "pernicious",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of PERNICIOUS.",
+      "options": [
+        "Rapid",
+        "Static",
+        "Beneficial",
+        "Harmful"
+      ],
+      "answer": 2,
+      "answerText": "Beneficial",
+      "note": "Draft option transcription. Confirm against official answer key.",
+      "status": "Draft transcription",
+      "source": "https://somadhan.app/admission-questions/university/gst-b/2025-26/english-2nd-paper",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "GSTB-03",
+      "category": "GST Admission",
+      "exam": "GST Integrated Admission",
+      "session": "2025–26",
+      "unit": "Unit B",
+      "phraseId": "smell-a-rat",
+      "kind": "Idiom meaning",
+      "prompt": "What does the idiom “smell a rat” mean?",
+      "options": [
+        "To see a mouse",
+        "To suspect something is wrong",
+        "To become afraid",
+        "To run away"
+      ],
+      "answer": 1,
+      "answerText": "To suspect something is wrong",
+      "note": "Draft option transcription. Verify exact original options.",
+      "status": "Draft transcription",
+      "source": "https://somadhan.app/admission-questions/university/gst-b/2025-26/english-2nd-paper",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "GSTB-04",
+      "category": "GST Admission",
+      "exam": "GST Integrated Admission",
+      "session": "2025–26",
+      "unit": "Unit B",
+      "wordId": "volatile",
+      "kind": "Synonym",
+      "prompt": "Choose the closest synonym of VOLATILE.",
+      "options": [
+        "Humble",
+        "Temporary",
+        "Fragile",
+        "Docile"
+      ],
+      "answer": 1,
+      "answerText": "Temporary",
+      "note": "Answer needs lexical review: volatile commonly means unstable or changeable; “temporary” is not an exact synonym in all contexts.",
+      "status": "Answer disputed",
+      "source": "https://somadhan.app/admission-questions/university/gst-b/2025-26/english-2nd-paper",
+      "sourceStatus": "Answer disputed"
+    },
+    {
+      "id": "GSTB-05",
+      "category": "GST Admission",
+      "exam": "GST Integrated Admission",
+      "session": "2025–26",
+      "unit": "Unit B",
+      "phraseId": "give-a-hand",
+      "kind": "Phrase meaning",
+      "prompt": "What does “give a hand” mean?",
+      "options": [
+        "To help",
+        "To interfere",
+        "To shake hands",
+        "To extend one’s hand"
+      ],
+      "answer": 0,
+      "answerText": "To help",
+      "note": "Draft option transcription. Verify exact original options.",
+      "status": "Draft transcription",
+      "source": "https://somadhan.app/admission-questions/university/gst-b/2025-26/english-2nd-paper",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "GSTB-06",
+      "category": "GST Admission",
+      "exam": "GST Integrated Admission",
+      "session": "2025–26",
+      "unit": "Unit B",
+      "wordId": "lacuna",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of LACUNA.",
+      "options": [
+        "Plenitude",
+        "Gap",
+        "Omission",
+        "Pause"
+      ],
+      "answer": 0,
+      "answerText": "Plenitude",
+      "note": "The earlier transcription used “Plentitude”; standard spelling is “plenitude”. Verify option spelling on the paper.",
+      "status": "Needs option verification",
+      "source": "https://somadhan.app/admission-questions/university/gst-b/2025-26/english-2nd-paper",
+      "sourceStatus": "Needs option verification"
+    },
+    {
+      "id": "GSTC-01",
+      "category": "GST Admission",
+      "exam": "GST Integrated Admission",
+      "session": "2025–26",
+      "unit": "Unit C",
+      "wordId": "destitute",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of DESTITUTE.",
+      "options": [],
+      "answer": null,
+      "answerText": "Wealthy",
+      "note": "The answer was present in the secondary summary, but the original options were not supplied. Do not invent or display options.",
+      "status": "Options unavailable",
+      "source": "https://somadhan.app/admission-questions/university/gst-c/2025-26/english-2nd-paper",
+      "sourceStatus": "Options unavailable"
+    },
+    {
+      "id": "GSTC-02",
+      "category": "GST Admission",
+      "exam": "GST Integrated Admission",
+      "session": "2025–26",
+      "unit": "Unit C",
+      "wordId": "resentment",
+      "kind": "Synonym",
+      "prompt": "Choose the synonym of RESENTMENT.",
+      "options": [],
+      "answer": null,
+      "answerText": "Indignation",
+      "note": "The answer was present in the secondary summary, but the original options were not supplied.",
+      "status": "Options unavailable",
+      "source": "https://somadhan.app/admission-questions/university/gst-c/2025-26/english-2nd-paper",
+      "sourceStatus": "Options unavailable"
+    },
+    {
+      "id": "BCS50-01",
+      "category": "BCS",
+      "exam": "50th BCS Preliminary",
+      "session": "2026",
+      "unit": "Preliminary",
+      "wordId": "percipience",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of PERCIPIENCE.",
+      "options": [
+        "Shrewdness",
+        "Dullness",
+        "Discerning",
+        "Astuteness"
+      ],
+      "answer": 1,
+      "answerText": "Dullness",
+      "note": "Draft option transcription. Verify question number and option order from original paper.",
+      "status": "Draft transcription",
+      "source": "https://bdgovernmentjobs.com/prep/bcs/50/",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "BCS50-02",
+      "category": "BCS",
+      "exam": "50th BCS Preliminary",
+      "session": "2026",
+      "unit": "Preliminary",
+      "wordId": "hangar",
+      "kind": "Word meaning / spelling distinction",
+      "prompt": "Which word names a large building used to house aircraft?",
+      "options": [
+        "Terminal",
+        "Aerodrome",
+        "Hanger",
+        "Hangar"
+      ],
+      "answer": 3,
+      "answerText": "Hangar",
+      "note": "Draft option transcription. Hangar is the aircraft building; hanger is a device for hanging clothes.",
+      "status": "Draft transcription",
+      "source": "https://bdgovernmentjobs.com/prep/bcs/50/",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "BCS50-03",
+      "category": "BCS",
+      "exam": "50th BCS Preliminary",
+      "session": "2026",
+      "unit": "Preliminary",
+      "wordId": "crepuscular",
+      "kind": "Synonym",
+      "prompt": "Choose the closest synonym of CREPUSCULAR.",
+      "options": [
+        "Nocturnal",
+        "Diurnal",
+        "Cathemeral",
+        "Twilit"
+      ],
+      "answer": 3,
+      "answerText": "Twilit",
+      "note": "Draft option transcription. Verify against original question paper.",
+      "status": "Draft transcription",
+      "source": "https://bdgovernmentjobs.com/prep/bcs/50/",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "JNUC-01",
+      "category": "University Admission",
+      "exam": "Jagannath University Admission",
+      "session": "2025–26",
+      "unit": "C Unit",
+      "wordId": "abolish",
+      "kind": "Synonym",
+      "prompt": "Choose the synonym of ABOLISH.",
+      "options": [
+        "Abrogate",
+        "Establish",
+        "Create",
+        "Restore"
+      ],
+      "answer": 0,
+      "answerText": "Abrogate",
+      "note": "Draft option transcription. Verify original paper and unit attribution.",
+      "status": "Draft transcription",
+      "source": "https://www.jobsolutionbd.com/2025/12/jnu-admission-c-unit-question-solution-2025-26.html",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "JNUC-02",
+      "category": "University Admission",
+      "exam": "Jagannath University Admission",
+      "session": "2025–26",
+      "unit": "C Unit",
+      "wordId": "concur",
+      "kind": "Synonym",
+      "prompt": "Choose the synonym of CONCUR.",
+      "options": [
+        "Dissent",
+        "Disagree",
+        "Clash",
+        "Collaborate"
+      ],
+      "answer": 3,
+      "answerText": "Collaborate",
+      "note": "Published answer is disputed. Concur means agree; collaborate means work together. Do not mark the published answer as correct.",
+      "status": "Answer disputed",
+      "source": "https://www.jobsolutionbd.com/2025/12/jnu-admission-c-unit-question-solution-2025-26.html",
+      "sourceStatus": "Answer disputed"
+    },
+    {
+      "id": "JNUC-03",
+      "category": "University Admission",
+      "exam": "Jagannath University Admission",
+      "session": "2025–26",
+      "unit": "C Unit",
+      "wordId": "prudent",
+      "kind": "Synonym",
+      "prompt": "Choose the synonym of PRUDENT.",
+      "options": [
+        "Careless",
+        "Wise",
+        "Hasty",
+        "Risky"
+      ],
+      "answer": 1,
+      "answerText": "Wise",
+      "note": "Draft option transcription.",
+      "status": "Draft transcription",
+      "source": "https://www.jobsolutionbd.com/2025/12/jnu-admission-c-unit-question-solution-2025-26.html",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "JNUC-04",
+      "category": "University Admission",
+      "exam": "Jagannath University Admission",
+      "session": "2025–26",
+      "unit": "C Unit",
+      "wordId": "reluctant",
+      "kind": "Synonym",
+      "prompt": "Choose the synonym of RELUCTANT.",
+      "options": [
+        "Willing",
+        "Unwilling",
+        "Certain",
+        "Active"
+      ],
+      "answer": 0,
+      "answerText": "Willing",
+      "note": "Published answer is incorrect. The correct meaning of reluctant is unwilling. The likely correct option is B, but the original key must be checked.",
+      "status": "Answer disputed",
+      "source": "https://www.jobsolutionbd.com/2025/12/jnu-admission-c-unit-question-solution-2025-26.html",
+      "sourceStatus": "Answer disputed"
+    },
+    {
+      "id": "JNUC-05",
+      "category": "University Admission",
+      "exam": "Jagannath University Admission",
+      "session": "2025–26",
+      "unit": "C Unit",
+      "wordId": "benign",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of BENIGN.",
+      "options": [
+        "Cruel",
+        "Favourable",
+        "Cordial",
+        "Warm"
+      ],
+      "answer": 0,
+      "answerText": "Cruel",
+      "note": "Draft option transcription.",
+      "status": "Draft transcription",
+      "source": "https://www.jobsolutionbd.com/2025/12/jnu-admission-c-unit-question-solution-2025-26.html",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "JNUC-06",
+      "category": "University Admission",
+      "exam": "Jagannath University Admission",
+      "session": "2025–26",
+      "unit": "C Unit",
+      "wordId": "mitigate",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of MITIGATE.",
+      "options": [
+        "Alleviate",
+        "Aggravate",
+        "Diminish",
+        "Soften"
+      ],
+      "answer": 1,
+      "answerText": "Aggravate",
+      "note": "Draft option transcription.",
+      "status": "Draft transcription",
+      "source": "https://www.jobsolutionbd.com/2025/12/jnu-admission-c-unit-question-solution-2025-26.html",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "JNUC-07",
+      "category": "University Admission",
+      "exam": "Jagannath University Admission",
+      "session": "2025–26",
+      "unit": "C Unit",
+      "wordId": "scarcity",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of SCARCITY.",
+      "options": [
+        "Lack",
+        "Shortage",
+        "Plenty",
+        "Few"
+      ],
+      "answer": 2,
+      "answerText": "Plenty",
+      "note": "Draft option transcription.",
+      "status": "Draft transcription",
+      "source": "https://www.jobsolutionbd.com/2025/12/jnu-admission-c-unit-question-solution-2025-26.html",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "JNUC-08",
+      "category": "University Admission",
+      "exam": "Jagannath University Admission",
+      "session": "2025–26",
+      "unit": "C Unit",
+      "wordId": "authentic",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of AUTHENTIC.",
+      "options": [
+        "Genuine",
+        "True",
+        "Plenty",
+        "Fake"
+      ],
+      "answer": 3,
+      "answerText": "Fake",
+      "note": "Draft option transcription.",
+      "status": "Draft transcription",
+      "source": "https://www.jobsolutionbd.com/2025/12/jnu-admission-c-unit-question-solution-2025-26.html",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "RUB-01",
+      "category": "University Admission",
+      "exam": "Rajshahi University Admission",
+      "session": "2025–26",
+      "unit": "B Unit",
+      "wordId": "barter",
+      "kind": "Synonym",
+      "prompt": "Choose the synonym of BARTER.",
+      "options": [
+        "Transient",
+        "Proxy",
+        "Relevant",
+        "Exchange"
+      ],
+      "answer": 3,
+      "answerText": "Exchange",
+      "note": "Draft option transcription. Verify exact original question and options.",
+      "status": "Draft transcription",
+      "source": "https://lokkho.org/ru-b-noncomm-2025-2026-rub-mcq",
+      "sourceStatus": "Draft transcription"
+    },
+    {
+      "id": "MEDH-1994-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "1994–95",
+      "unit": "National MBBS",
+      "phraseId": "alls-well",
+      "kind": "Proverb / translation",
+      "prompt": "Choose the correct English translation of the Bengali proverb “শেষ ভাল যার সব ভাল তার”.",
+      "options": [
+        "Those who end well has all well",
+        "He who ends well has well in all",
+        "All's well that ends well",
+        "All well if well is the end"
+      ],
+      "answer": 2,
+      "answerText": "All's well that ends well",
+      "status": "Secondary transcription",
+      "note": "Question and option set visible on the year-specific SmartPrep page.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/1994-95",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-1995-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "1995–96",
+      "unit": "National MBBS",
+      "wordId": "panacea",
+      "kind": "Word meaning",
+      "prompt": "“Panacea” means —",
+      "options": [
+        "fresh",
+        "gland",
+        "cure all",
+        "widespread disease"
+      ],
+      "answer": 2,
+      "answerText": "cure all",
+      "status": "Secondary transcription",
+      "note": "Year-specific page lists this as one of the two currently indexed questions.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/1995-96",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-1998-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "1998–99",
+      "unit": "National MBBS",
+      "phraseId": "death-has-no-timetable",
+      "kind": "Proverb / translation",
+      "prompt": "Choose the correct translation of “মৃত্যুর সময় অসময় নেই”.",
+      "options": [
+        "Death has no timetable",
+        "Death has no time",
+        "Death has no programme",
+        "Death has no in season and out of season"
+      ],
+      "answer": 0,
+      "answerText": "Death has no timetable",
+      "status": "Needs answer verification",
+      "note": "Original options are shown by the year-specific archive; answer is linguistically inferred and must be checked.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/1998-99",
+      "sourceStatus": "Needs answer verification"
+    },
+    {
+      "id": "MEDH-2003-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2003–04",
+      "unit": "National MBBS",
+      "phraseId": "cry-over-spilt-milk",
+      "kind": "Idiom meaning",
+      "prompt": "What does “cry over spilt milk” mean?",
+      "options": [
+        "Regret what cannot be changed",
+        "Celebrate a small success",
+        "Complain about the weather",
+        "Avoid responsibility"
+      ],
+      "answer": 0,
+      "answerText": "Regret what cannot be changed",
+      "status": "Secondary transcription",
+      "note": "The question appearance was reported in a secondary year-indexed English-question collection; options are paraphrased for study.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2003-04",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2003-02",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2003–04",
+      "unit": "National MBBS",
+      "phraseId": "catch-at-a-straw",
+      "kind": "Idiom meaning",
+      "prompt": "What does “catch at a straw” suggest?",
+      "options": [
+        "Seize a small remaining hope",
+        "Ignore a warning",
+        "Finish a task quickly",
+        "Avoid a difficult choice"
+      ],
+      "answer": 0,
+      "answerText": "Seize a small remaining hope",
+      "status": "Secondary transcription",
+      "note": "Question phrase is reported in a secondary collection; answer choices are paraphrased.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2003-04",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2004-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2004–05",
+      "unit": "National MBBS",
+      "wordId": "sanction",
+      "kind": "Synonym",
+      "prompt": "Choose the synonym of SANCTION.",
+      "options": [
+        "Authorization",
+        "Play",
+        "Verify",
+        "Prohibit"
+      ],
+      "answer": 0,
+      "answerText": "Authorization",
+      "status": "Secondary transcription",
+      "note": "Question and options visible on the year-specific SmartPrep page.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2004-05",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2005-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2005–06",
+      "unit": "National MBBS",
+      "phraseId": "look-for",
+      "kind": "Phrasal verb / collocation",
+      "prompt": "Choose the correct preposition: “I am looking ___ a good job.”",
+      "options": [
+        "for",
+        "into",
+        "after",
+        "up"
+      ],
+      "answer": 0,
+      "answerText": "for",
+      "status": "Secondary transcription",
+      "note": "The year-specific page lists the “look for” expression in a series of example sentences; wording normalized.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2005-06",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2006-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2006–07",
+      "unit": "National MBBS",
+      "wordId": "hospitality",
+      "kind": "Synonym",
+      "prompt": "Which one is the synonym of HOSPITALITY?",
+      "options": [
+        "Pharmacy",
+        "Sick",
+        "Hospital",
+        "Welcome"
+      ],
+      "answer": 3,
+      "answerText": "Welcome",
+      "status": "Secondary transcription",
+      "note": "The word and four options are visible on the year-specific SmartPrep page.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2006-07",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2009-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2009–10",
+      "unit": "National MBBS",
+      "phraseId": "catch-up-with",
+      "kind": "Phrasal verb / usage",
+      "prompt": "Choose the correct expression meaning to reach the same level as others.",
+      "options": [
+        "catch up with",
+        "catch out",
+        "catch on",
+        "catch at"
+      ],
+      "answer": 0,
+      "answerText": "catch up with",
+      "status": "Secondary transcription",
+      "note": "The expression is reported in a secondary past-paper collection; options are normalized.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2009-10",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2010-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2010–11",
+      "unit": "National MBBS",
+      "wordId": "unwavering",
+      "kind": "One-word substitution / vocabulary",
+      "prompt": "Choose the word meaning impossible to question or dispute.",
+      "options": [
+        "Unquestionable",
+        "Unquestionably",
+        "Questionable",
+        "Questioning"
+      ],
+      "answer": 0,
+      "answerText": "Unquestionable",
+      "status": "Options incomplete",
+      "note": "Word focus was reported in a secondary transcription; exact original options have not been authenticated.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2010-11",
+      "sourceStatus": "Options incomplete"
+    },
+    {
+      "id": "MEDH-2011-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2011–12",
+      "unit": "National MBBS",
+      "wordId": "grievance",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of GRIEVANCE.",
+      "options": [
+        "Happiness",
+        "Discomfort",
+        "Distress",
+        "Peace"
+      ],
+      "answer": 0,
+      "answerText": "Happiness",
+      "status": "Answer disputed",
+      "note": "The published key reportedly gives Happiness, but the semantic contrast needs review.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2011-12",
+      "sourceStatus": "Answer disputed"
+    },
+    {
+      "id": "MEDH-2011-02",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2011–12",
+      "unit": "National MBBS",
+      "wordId": "coinage",
+      "kind": "Not a synonym",
+      "prompt": "Which is NOT a synonym of COINAGE?",
+      "options": [
+        "Currency",
+        "Denomination",
+        "Change",
+        "Invention"
+      ],
+      "answer": 3,
+      "answerText": "Invention",
+      "status": "Needs answer verification",
+      "note": "A secondary answer key gives Invention; preserve this with a verification note.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2011-12",
+      "sourceStatus": "Needs answer verification"
+    },
+    {
+      "id": "MEDH-2011-03",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2011–12",
+      "unit": "National MBBS",
+      "phraseId": "hanker-after",
+      "kind": "Phrasal verb / preposition",
+      "prompt": "Complete the expression: “Hanker ___ money.”",
+      "options": [
+        "to",
+        "for",
+        "on",
+        "after"
+      ],
+      "answer": 3,
+      "answerText": "after",
+      "status": "Answer disputed",
+      "note": "Both “hanker for” and “hanker after” can be grammatical; this question requires its original context and answer key.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2011-12",
+      "sourceStatus": "Answer disputed"
+    },
+    {
+      "id": "MEDH-2012-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2012–13",
+      "unit": "National MBBS",
+      "wordId": "ascent",
+      "kind": "Synonym",
+      "prompt": "Choose the closest synonym of ASCENT.",
+      "options": [
+        "Jaw down",
+        "Further",
+        "Jump",
+        "Regress"
+      ],
+      "answer": null,
+      "answerText": "Unconfirmed",
+      "status": "Options incomplete",
+      "note": "The secondary transcription has no convincing synonym among the listed options. Do not score automatically.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2012-13",
+      "sourceStatus": "Options incomplete"
+    },
+    {
+      "id": "MEDH-2012-02",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2012–13",
+      "unit": "National MBBS",
+      "wordId": "urbane",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of URBANE.",
+      "options": [
+        "Rural",
+        "Suave",
+        "Sophisticated",
+        "Uncouth"
+      ],
+      "answer": 3,
+      "answerText": "Uncouth",
+      "status": "Needs answer verification",
+      "note": "Option spelling/order requires comparison with the original paper.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2012-13",
+      "sourceStatus": "Needs answer verification"
+    },
+    {
+      "id": "MEDH-2013-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2013–14",
+      "unit": "National MBBS",
+      "wordId": "concord",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of CONCORD.",
+      "options": [
+        "Harmony",
+        "Thrifty",
+        "Conflict",
+        "Scanty"
+      ],
+      "answer": 2,
+      "answerText": "Conflict",
+      "status": "Secondary transcription",
+      "note": "Options and intended answer were reported in the secondary question collection.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2013-14",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2013-02",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2013–14",
+      "unit": "National MBBS",
+      "wordId": "cop",
+      "kind": "Meaning / synonym",
+      "prompt": "Choose the meaning of COP.",
+      "options": [
+        "Troops",
+        "Scout",
+        "Hit",
+        "Police"
+      ],
+      "answer": 3,
+      "answerText": "Police",
+      "status": "Secondary transcription",
+      "note": "Options and intended answer were reported in the secondary question collection.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2013-14",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2014-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2014–15",
+      "unit": "National MBBS",
+      "phraseId": "without-issue",
+      "kind": "Expression meaning",
+      "prompt": "In formal usage, “without issue” means —",
+      "options": [
+        "Without a mother",
+        "Illiterate",
+        "Childless",
+        "Without wealth"
+      ],
+      "answer": 2,
+      "answerText": "Childless",
+      "status": "Secondary transcription",
+      "note": "The question has been reported under 2014; exact session attribution should be confirmed.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2014-15",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2014-02",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2014–15",
+      "unit": "National MBBS",
+      "phraseId": "white-elephant",
+      "kind": "Idiom meaning",
+      "prompt": "What does “white elephant” mean?",
+      "options": [
+        "A hoarder",
+        "A costly troublesome possession",
+        "A black marketer",
+        "A rare animal"
+      ],
+      "answer": 1,
+      "answerText": "A costly troublesome possession",
+      "status": "Secondary transcription",
+      "note": "The question has been reported under 2014; exact session attribution should be confirmed.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2014-15",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2014-03",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2014–15",
+      "unit": "National MBBS",
+      "phraseId": "give-up",
+      "kind": "Phrasal verb meaning",
+      "prompt": "What does GIVE UP mean?",
+      "options": [
+        "Begin",
+        "Continue",
+        "Stop doing something",
+        "Make an effort"
+      ],
+      "answer": 2,
+      "answerText": "Stop doing something",
+      "status": "Secondary transcription",
+      "note": "The question has been reported under 2014; exact session attribution should be confirmed.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2014-15",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2015-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2015–16",
+      "unit": "National MBBS",
+      "wordId": "native",
+      "kind": "Antonym",
+      "prompt": "What is the antonym of NATIVE?",
+      "options": [
+        "Alien",
+        "Congenial",
+        "Inborn",
+        "Local"
+      ],
+      "answer": 0,
+      "answerText": "Alien",
+      "status": "Secondary transcription",
+      "note": "Question and options visible on the year-specific SmartPrep page.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2015-16",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2015-02",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2015–16",
+      "unit": "National MBBS",
+      "wordId": "ruthless",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of RUTHLESS.",
+      "options": [
+        "Reckless",
+        "Rude",
+        "Careless",
+        "Merciful"
+      ],
+      "answer": 3,
+      "answerText": "Merciful",
+      "status": "Secondary transcription",
+      "note": "Question and options visible on the year-specific SmartPrep page.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2015-16",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2015-03",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2015–16",
+      "unit": "National MBBS",
+      "phraseId": "fight-shy-of",
+      "kind": "Idiom meaning",
+      "prompt": "“Fight shy of” means —",
+      "options": [
+        "Very shy",
+        "Avoid",
+        "Fight unitedly",
+        "Fight consistently"
+      ],
+      "answer": 1,
+      "answerText": "Avoid",
+      "status": "Secondary transcription",
+      "note": "Question and options visible on the year-specific SmartPrep page.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2015-16",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2015-04",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2015–16",
+      "unit": "National MBBS",
+      "phraseId": "take-one-to-task",
+      "kind": "Idiom meaning",
+      "prompt": "“Take one to task” means —",
+      "options": [
+        "To question",
+        "To praise",
+        "To flatter",
+        "To rebuke"
+      ],
+      "answer": 3,
+      "answerText": "To rebuke",
+      "status": "Secondary transcription",
+      "note": "The question is listed by a secondary exam-question source.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2015-16",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2015-05",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2015–16",
+      "unit": "National MBBS",
+      "wordId": "facilitate",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of FACILITATE.",
+      "options": [
+        "Hallow",
+        "Hide",
+        "Hamper",
+        "Hold"
+      ],
+      "answer": 2,
+      "answerText": "Hamper",
+      "status": "Secondary transcription",
+      "note": "Options appear in a 2015–16 medical English question-bank transcription.",
+      "source": "https://10minuteschool.com/content/medical-admission-test-question-bank-2015-16/",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2015-06",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2015–16",
+      "unit": "National MBBS",
+      "wordId": "delinquent",
+      "kind": "Synonym",
+      "prompt": "Choose a synonym of DELINQUENT.",
+      "options": [
+        "Bold",
+        "Profuse",
+        "Offending",
+        "Mild"
+      ],
+      "answer": 2,
+      "answerText": "Offending",
+      "status": "Secondary transcription",
+      "note": "Options appear in a 2015–16 medical English question-bank transcription.",
+      "source": "https://10minuteschool.com/content/medical-admission-test-question-bank-2015-16/",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2015-07",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2015–16",
+      "unit": "National MBBS",
+      "phraseId": "some-time",
+      "kind": "Expression / usage",
+      "prompt": "Complete: “I spent ___ with the patient.”",
+      "options": [
+        "sometimes",
+        "little times",
+        "sometime",
+        "some time"
+      ],
+      "answer": 3,
+      "answerText": "some time",
+      "status": "Secondary transcription",
+      "note": "Question and options visible on the year-specific SmartPrep page.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2015-16",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2016-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2016–17",
+      "unit": "National MBBS",
+      "wordId": "synergy",
+      "kind": "Synonym",
+      "prompt": "What is the synonym of SYNERGY?",
+      "options": [
+        "Antagonism",
+        "Energy",
+        "Alliance",
+        "Conflict",
+        "Autonomy"
+      ],
+      "answer": 2,
+      "answerText": "Alliance",
+      "status": "Secondary transcription",
+      "note": "Question and five options visible on the year-specific SmartPrep page.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2016-17",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2016-02",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2016–17",
+      "unit": "National MBBS",
+      "wordId": "legendary",
+      "kind": "Synonym",
+      "prompt": "Choose the synonym of LEGENDARY.",
+      "options": [
+        "Famous",
+        "Fictitious",
+        "Intelligent",
+        "Legitimate"
+      ],
+      "answer": 0,
+      "answerText": "Famous",
+      "status": "Secondary transcription",
+      "note": "Question and options visible on the year-specific SmartPrep page.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2016-17",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2016-03",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2016–17",
+      "unit": "National MBBS",
+      "wordId": "seldom",
+      "kind": "Translation / word meaning",
+      "prompt": "Choose the correct translation of “তিনি কদাচিৎ মিথ্যা কথা বলেন”.",
+      "options": [
+        "He sometimes tells a lie.",
+        "He tells a lie sometimes.",
+        "Somewhat he tells a lie.",
+        "He seldom tells a lie."
+      ],
+      "answer": 3,
+      "answerText": "He seldom tells a lie.",
+      "status": "Secondary transcription",
+      "note": "Question and options visible on the year-specific SmartPrep page.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2016-17",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2017-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2017–18",
+      "unit": "National MBBS",
+      "wordId": "courteous",
+      "kind": "Synonym",
+      "prompt": "Choose the synonym of COURTEOUS.",
+      "options": [
+        "Intelligent",
+        "Well off",
+        "Polite",
+        "Kindness"
+      ],
+      "answer": 2,
+      "answerText": "Polite",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary transcription; verify original paper.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2017-18",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2017-02",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2017–18",
+      "unit": "National MBBS",
+      "wordId": "modern",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of MODERN.",
+      "options": [
+        "Outdated",
+        "Ancient",
+        "Past",
+        "Medieval"
+      ],
+      "answer": null,
+      "answerText": "Disputed",
+      "status": "Answer disputed",
+      "note": "Different answer keys reportedly disagree between Outdated and Ancient.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2017-18",
+      "sourceStatus": "Answer disputed"
+    },
+    {
+      "id": "MEDH-2017-03",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2017–18",
+      "unit": "National MBBS",
+      "phraseId": "call-in",
+      "kind": "Phrasal verb meaning",
+      "prompt": "In the context of asking a doctor to attend, CALL IN means —",
+      "options": [
+        "Summon",
+        "Dismiss",
+        "Visit socially",
+        "Call by telephone only"
+      ],
+      "answer": 0,
+      "answerText": "Summon",
+      "status": "Secondary transcription",
+      "note": "Phrasal-verb usage item reported in a secondary transcription.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2017-18",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2018-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2018–19",
+      "unit": "National MBBS",
+      "phraseId": "where-there-is-a-will",
+      "kind": "Proverb / translation",
+      "prompt": "Choose the English proverb equivalent to “ইচ্ছা থাকলে উপায় হয়”.",
+      "options": [
+        "Where there is a will, there is a way.",
+        "Where there is a way, there is a will.",
+        "Will is the only way.",
+        "A way creates a will."
+      ],
+      "answer": 0,
+      "answerText": "Where there is a will, there is a way.",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary year-wise medical English question collection.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2018-19",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2018-02",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2018–19",
+      "unit": "National MBBS",
+      "wordId": "exhausted",
+      "kind": "Synonym",
+      "prompt": "Choose the synonym of EXHAUSTED.",
+      "options": [
+        "Plenty",
+        "Stored",
+        "Animated",
+        "Drained"
+      ],
+      "answer": 3,
+      "answerText": "Drained",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary transcription; verify paper and options.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2018-19",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2018-03",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2018–19",
+      "unit": "National MBBS",
+      "wordId": "well-mannered",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of WELL-MANNERED.",
+      "options": [
+        "Decorous",
+        "Courteous",
+        "Chivalrous",
+        "Sassy"
+      ],
+      "answer": 3,
+      "answerText": "Sassy",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary transcription; verify paper and options.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2018-19",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2018-04",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2018–19",
+      "unit": "National MBBS",
+      "wordId": "revenge",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of REVENGE.",
+      "options": [
+        "Reprisal",
+        "Penalty",
+        "Grace",
+        "Wrath"
+      ],
+      "answer": 2,
+      "answerText": "Grace",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary transcription; verify paper and options.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2018-19",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2018-05",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2018–19",
+      "unit": "National MBBS",
+      "wordId": "contemptible",
+      "kind": "Word form",
+      "prompt": "Choose the adjective form related to CONTEMPT.",
+      "options": [
+        "Contemptation",
+        "Contemptible",
+        "Contemptable",
+        "Contempting"
+      ],
+      "answer": 1,
+      "answerText": "Contemptible",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary transcription; verify paper and options.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2018-19",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2018-06",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2018–19",
+      "unit": "National MBBS",
+      "wordId": "pragmatic",
+      "kind": "Meaning in context",
+      "prompt": "What is the closest Bengali meaning of PRAGMATIC?",
+      "options": [
+        "বাস্তবধর্মী",
+        "অলৌকিক",
+        "অবাস্তব",
+        "অনিশ্চিত"
+      ],
+      "answer": 0,
+      "answerText": "বাস্তবধর্মী",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary transcription; verify exact option set.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2018-19",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2019-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2019–20",
+      "unit": "National MBBS",
+      "wordId": "refractory",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of REFRACTORY.",
+      "options": [
+        "Obedient",
+        "Cussed",
+        "Stubborn",
+        "Intractable"
+      ],
+      "answer": 0,
+      "answerText": "Obedient",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary transcription; verify paper and options.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2019-20",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2019-02",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2019–20",
+      "unit": "National MBBS",
+      "wordId": "ability",
+      "kind": "Not a synonym",
+      "prompt": "Which is NOT a synonym of ABILITY?",
+      "options": [
+        "Talent",
+        "Competency",
+        "Avail",
+        "Skill"
+      ],
+      "answer": 2,
+      "answerText": "Avail",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary transcription; verify paper and options.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2019-20",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2020-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2020–21",
+      "unit": "National MBBS",
+      "phraseId": "cut-down",
+      "kind": "Phrasal verb meaning",
+      "prompt": "In “cut down your expenditure”, CUT DOWN means —",
+      "options": [
+        "Reduce",
+        "Remove completely",
+        "Divide",
+        "Increase"
+      ],
+      "answer": 0,
+      "answerText": "Reduce",
+      "status": "Secondary transcription",
+      "note": "Question and options visible in the published 2020–21 English solution page.",
+      "source": "https://www.babarenglish.com/post/medical-college-admission-test-english-2020-2021-session-english-questions-answers-with-explana",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2020-02",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2020–21",
+      "unit": "National MBBS",
+      "wordId": "bizarre",
+      "kind": "Antonym",
+      "prompt": "What is the antonym of BIZARRE?",
+      "options": [
+        "Flexible",
+        "Normal",
+        "Messy",
+        "Horrible"
+      ],
+      "answer": 1,
+      "answerText": "Normal",
+      "status": "Secondary transcription",
+      "note": "Question and options visible in the published 2020–21 English solution page.",
+      "source": "https://www.babarenglish.com/post/medical-college-admission-test-english-2020-2021-session-english-questions-answers-with-explana",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2020-03",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2020–21",
+      "unit": "National MBBS",
+      "wordId": "acclimatize",
+      "kind": "Synonymous pair",
+      "prompt": "Which pair is synonymous?",
+      "options": [
+        "Acclimatize and Accustom",
+        "Philanthropic and Pessimistic",
+        "Clutter and Consistent",
+        "Apartheid and Apprehend"
+      ],
+      "answer": 0,
+      "answerText": "Acclimatize and Accustom",
+      "status": "Secondary transcription",
+      "note": "Question and options visible in the published 2020–21 English solution page.",
+      "source": "https://www.babarenglish.com/post/medical-college-admission-test-english-2020-2021-session-english-questions-answers-with-explana",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2020-04",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2020–21",
+      "unit": "National MBBS",
+      "wordId": "laud",
+      "kind": "Antonym",
+      "prompt": "What is the antonym of LAUD?",
+      "options": [
+        "Inept",
+        "Abhor",
+        "Latch",
+        "Adore"
+      ],
+      "answer": 1,
+      "answerText": "Abhor",
+      "status": "Answer disputed",
+      "note": "The published key gives Abhor. The positive-sense option Adore can confuse this question; retain source status and review before scoring.",
+      "source": "https://www.babarenglish.com/post/medical-college-admission-test-english-2020-2021-session-english-questions-answers-with-explana",
+      "sourceStatus": "Answer disputed"
+    },
+    {
+      "id": "MEDH-2020-05",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2020–21",
+      "unit": "National MBBS",
+      "wordId": "unwavering",
+      "kind": "Synonym",
+      "prompt": "What is the synonym of UNWAVERING?",
+      "options": [
+        "Steady",
+        "Urgent",
+        "Ensure",
+        "Unreliable"
+      ],
+      "answer": 0,
+      "answerText": "Steady",
+      "status": "Secondary transcription",
+      "note": "Question and options visible in the published 2020–21 English solution page.",
+      "source": "https://www.babarenglish.com/post/medical-college-admission-test-english-2020-2021-session-english-questions-answers-with-explana",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2020-06",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2020–21",
+      "unit": "National MBBS",
+      "wordId": "sovereignty",
+      "kind": "Correct spelling",
+      "prompt": "Choose the correct spelling.",
+      "options": [
+        "Sovreignty",
+        "Sovereignty",
+        "Soverignty",
+        "Sovreinty"
+      ],
+      "answer": 1,
+      "answerText": "Sovereignty",
+      "status": "Secondary transcription",
+      "note": "Question and options visible in the published 2020–21 English solution page.",
+      "source": "https://www.babarenglish.com/post/medical-college-admission-test-english-2020-2021-session-english-questions-answers-with-explana",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2020-07",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2020–21",
+      "unit": "National MBBS",
+      "phraseId": "for-a-long-time",
+      "kind": "Expression / usage",
+      "prompt": "Complete the expression: “I have not heard from him ___.”",
+      "options": [
+        "long since",
+        "for a long time",
+        "for long",
+        "since long"
+      ],
+      "answer": 1,
+      "answerText": "for a long time",
+      "status": "Secondary transcription",
+      "note": "Question and options visible in the published 2020–21 English solution page.",
+      "source": "https://www.babarenglish.com/post/medical-college-admission-test-english-2020-2021-session-english-questions-answers-with-explana",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2020-08",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2020–21",
+      "unit": "National MBBS",
+      "phraseId": "look-up",
+      "kind": "Phrasal verb",
+      "prompt": "Complete: “___ the word in the dictionary.”",
+      "options": [
+        "look to",
+        "look up",
+        "look over",
+        "look after"
+      ],
+      "answer": 1,
+      "answerText": "look up",
+      "status": "Secondary transcription",
+      "note": "Question and options visible in the published 2020–21 English solution page.",
+      "source": "https://www.babarenglish.com/post/medical-college-admission-test-english-2020-2021-session-english-questions-answers-with-explana",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2020-09",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2020–21",
+      "unit": "National MBBS",
+      "wordId": "entrepreneur",
+      "kind": "Correct spelling",
+      "prompt": "Choose the correct spelling.",
+      "options": [
+        "Entreprenor",
+        "Entrepreneor",
+        "Entrepreneur",
+        "Entepreneur"
+      ],
+      "answer": 2,
+      "answerText": "Entrepreneur",
+      "status": "Secondary transcription",
+      "note": "Question and options visible in the published 2020–21 English solution page.",
+      "source": "https://www.babarenglish.com/post/medical-college-admission-test-english-2020-2021-session-english-questions-answers-with-explana",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2021-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2021–22",
+      "unit": "National MBBS",
+      "phraseId": "read-between-lines",
+      "kind": "Idiom meaning",
+      "prompt": "What does “read between the lines” mean?",
+      "options": [
+        "Understand an implied meaning",
+        "Read a text aloud",
+        "Ignore the main idea",
+        "Read only headings"
+      ],
+      "answer": 0,
+      "answerText": "Understand an implied meaning",
+      "status": "Secondary transcription",
+      "note": "Question reported in a secondary year-specific answer archive; options are paraphrased.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2021-22",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2021-02",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2021–22",
+      "unit": "National MBBS",
+      "phraseId": "pull-out-all-stops",
+      "kind": "Idiom meaning / usage",
+      "prompt": "Which statement correctly explains “pull out all the stops”?",
+      "options": [
+        "Make every possible effort",
+        "Stop working",
+        "Avoid a decision",
+        "Delay a task"
+      ],
+      "answer": 0,
+      "answerText": "Make every possible effort",
+      "status": "Secondary transcription",
+      "note": "The reported question concerns correct usage; this is a concise study paraphrase.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2021-22",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2021-03",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2021–22",
+      "unit": "National MBBS",
+      "wordId": "beneficial",
+      "kind": "Noun form",
+      "prompt": "What is the noun form related to BENEFICIAL?",
+      "options": [
+        "Beneficialness",
+        "Benefit",
+        "Beneficent",
+        "Beneficiary"
+      ],
+      "answer": 1,
+      "answerText": "Benefit",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary transcription; verify original options.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2021-22",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2021-04",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2021–22",
+      "unit": "National MBBS",
+      "wordId": "deceive",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of DECEIVE.",
+      "options": [
+        "Trick",
+        "Cheat",
+        "Mislead",
+        "Advise"
+      ],
+      "answer": 3,
+      "answerText": "Advise",
+      "status": "Needs answer verification",
+      "note": "The published answer key reportedly gives Advise; verify whether the option set and intended relation are sound.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2021-22",
+      "sourceStatus": "Needs answer verification"
+    },
+    {
+      "id": "MEDH-2022-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2022–23",
+      "unit": "National MBBS",
+      "phraseId": "kith-and-kin",
+      "kind": "Phrase classification",
+      "prompt": "What type of phrase is “kith and kin”?",
+      "options": [
+        "Prepositional phrase",
+        "Conjunctional phrase",
+        "Adjective phrase",
+        "Noun phrase"
+      ],
+      "answer": 3,
+      "answerText": "Noun phrase",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary transcription; verify original question.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2022-23",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2022-02",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2022–23",
+      "unit": "National MBBS",
+      "wordId": "recalcitrant",
+      "kind": "Meaning / synonym",
+      "prompt": "Choose the closest meaning of RECALCITRANT.",
+      "options": [
+        "Mutinous",
+        "Compliant",
+        "Docile",
+        "Amenable"
+      ],
+      "answer": 0,
+      "answerText": "Mutinous",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary transcription; verify original question.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2022-23",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2022-03",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2022–23",
+      "unit": "National MBBS",
+      "wordId": "harbinger",
+      "kind": "Antonym",
+      "prompt": "Choose the antonym of HARBINGER.",
+      "options": [
+        "Educator",
+        "Messenger",
+        "Follower",
+        "Leader"
+      ],
+      "answer": 2,
+      "answerText": "Follower",
+      "status": "Needs answer verification",
+      "note": "The published key reportedly gives Follower; meaning-based review recommended.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2022-23",
+      "sourceStatus": "Needs answer verification"
+    },
+    {
+      "id": "MEDH-2022-04",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2022–23",
+      "unit": "National MBBS",
+      "wordId": "elegy",
+      "kind": "Word meaning",
+      "prompt": "What is an ELEGY?",
+      "options": [
+        "Satire",
+        "Limerick",
+        "Poem of lamentation",
+        "Hymn"
+      ],
+      "answer": 2,
+      "answerText": "Poem of lamentation",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary transcription; verify original question.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2022-23",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2023-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2023–24",
+      "unit": "National MBBS",
+      "phraseId": "read-between-lines",
+      "kind": "Idiom meaning",
+      "prompt": "What does “read between the lines” mean?",
+      "options": [
+        "Ignore details",
+        "Read loudly",
+        "Understand the inner meaning",
+        "Follow only the main idea"
+      ],
+      "answer": 2,
+      "answerText": "Understand the inner meaning",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary transcription; similar item also appears in another session.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2023-24",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2023-02",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2023–24",
+      "unit": "National MBBS",
+      "wordId": "polite",
+      "kind": "Synonym",
+      "prompt": "Choose the synonym of POLITE.",
+      "options": [
+        "Rude",
+        "Harsh",
+        "Courteous",
+        "Impolite"
+      ],
+      "answer": 2,
+      "answerText": "Courteous",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary transcription; verify original paper.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2023-24",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2023-03",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2023–24",
+      "unit": "National MBBS",
+      "wordId": "beneficial",
+      "kind": "Noun form",
+      "prompt": "What is the noun form related to BENEFICIAL?",
+      "options": [
+        "Benefactor",
+        "Benefit",
+        "Beneficence",
+        "Beneficially"
+      ],
+      "answer": 1,
+      "answerText": "Benefit",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary transcription; verify original paper.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2023-24",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2024-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2024–25",
+      "unit": "National MBBS",
+      "wordId": "rotation",
+      "kind": "Word form",
+      "prompt": "Choose the adverb form of ROTATION.",
+      "options": [
+        "Rotatory",
+        "Rotating",
+        "Rotational",
+        "Rotationally"
+      ],
+      "answer": 3,
+      "answerText": "Rotationally",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary transcription; year-specific question source still needs confirmation.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2024-25",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2024-02",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2024–25",
+      "unit": "National MBBS",
+      "wordId": "artisan",
+      "kind": "Word meaning",
+      "prompt": "What does ARTISAN mean?",
+      "options": [
+        "Producer",
+        "Artist",
+        "Craftsperson",
+        "Craft"
+      ],
+      "answer": 2,
+      "answerText": "Craftsperson",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary transcription; year-specific question source still needs confirmation.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2024-25",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2024-03",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2024–25",
+      "unit": "National MBBS",
+      "phraseId": "by-dint-of",
+      "kind": "Expression / collocation",
+      "prompt": "Complete: “He got the prize ___ hard work.”",
+      "options": [
+        "By",
+        "By dint of",
+        "By engaging in",
+        "By using"
+      ],
+      "answer": 1,
+      "answerText": "By dint of",
+      "status": "Secondary transcription",
+      "note": "Reported in a secondary transcription; year-specific question source still needs confirmation.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2024-25",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2025-01",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2025–26",
+      "unit": "National MBBS",
+      "phraseId": "horse-mouth",
+      "kind": "Idiom meaning",
+      "prompt": "In the sentence “I heard the story from the horse’s mouth”, the bold phrase means —",
+      "options": [
+        "From an authentic source",
+        "From a doubtful source",
+        "From an open source",
+        "From an unreliable source"
+      ],
+      "answer": 0,
+      "answerText": "From an authentic source",
+      "status": "Secondary transcription",
+      "note": "Four options and question are visible on the 2025–26 SmartPrep year page.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2025-26",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2025-02",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2025–26",
+      "unit": "National MBBS",
+      "wordId": "mobilized",
+      "kind": "Meaning in context",
+      "prompt": "In “We mobilized funds for his treatment”, MOBILIZED means —",
+      "options": [
+        "Spent",
+        "Gave",
+        "Allocated",
+        "Collected"
+      ],
+      "answer": 3,
+      "answerText": "Collected",
+      "status": "Secondary transcription",
+      "note": "Four options and question are visible on the 2025–26 SmartPrep year page.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2025-26",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2025-03",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2025–26",
+      "unit": "National MBBS",
+      "wordId": "bankrupt",
+      "kind": "Word meaning",
+      "prompt": "A person unable to pay back debts is called —",
+      "options": [
+        "Poor",
+        "Cheat",
+        "Miser",
+        "Bankrupt"
+      ],
+      "answer": 3,
+      "answerText": "Bankrupt",
+      "status": "Secondary transcription",
+      "note": "Four options and question are visible on the 2025–26 SmartPrep year page.",
+      "source": "https://smartprepbd.com/bn/question-bank/medical/2025-26",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2025-04",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2025–26",
+      "unit": "National MBBS",
+      "wordId": "immoral",
+      "kind": "Prefix identification",
+      "prompt": "Select the word containing the prefix “im-”.",
+      "options": [
+        "Immoral",
+        "Immediate",
+        "Immense",
+        "Important"
+      ],
+      "answer": 0,
+      "answerText": "Immoral",
+      "status": "Secondary transcription",
+      "note": "Needs option verification",
+      "source": "https://englearners.com/index.php/medical-admission-test-2025-26/",
+      "sourceStatus": "Secondary transcription"
+    },
+    {
+      "id": "MEDH-2025-05",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2025–26",
+      "unit": "National MBBS",
+      "wordId": "irritable",
+      "kind": "Prefix / word formation",
+      "prompt": "Identify the word reported as not containing the prefix “ir-”.",
+      "options": [
+        "Irrational",
+        "Irritable",
+        "Irresponsible",
+        "Irregular"
+      ],
+      "answer": 1,
+      "answerText": "Irritable",
+      "status": "Answer disputed",
+      "note": "Prefix analysis and the original question wording need checking before this record is scored.",
+      "source": "https://englearners.com/index.php/medical-admission-test-2025-26/",
+      "sourceStatus": "Answer disputed"
+    },
+    {
+      "id": "MEDH-2025-06",
+      "category": "Medical Admission",
+      "exam": "MBBS Medical Admission Test",
+      "session": "2025–26",
+      "unit": "National MBBS",
+      "wordId": "ideal",
+      "kind": "Synonym",
+      "prompt": "Choose the synonym of IDEAL.",
+      "options": [
+        "Correct",
+        "Perfect",
+        "Good",
+        "Appropriate"
+      ],
+      "answer": 1,
+      "answerText": "Perfect",
+      "status": "Secondary transcription",
+      "note": "Needs answer verification",
+      "source": "https://englearners.com/index.php/medical-admission-test-2025-26/",
+      "sourceStatus": "Secondary transcription"
+    }
+  ]
+}
