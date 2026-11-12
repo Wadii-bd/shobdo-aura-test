@@ -79,3 +79,6 @@ The standalone preview is `shobdo-aura-test-v2-preview.html` outside this projec
 - `exam-questions.json`: the full initial examination-question catalogue used by the prototype, including university and other admission items.
 
 The standalone preview is `shobdo-aura-test-v2-preview.html` outside this project folder. It embeds local CSS, scripts and palette logos so it can be opened as one file. The ZIP version keeps source files and assets separate for editing.
+
+
+frontend by Ai.
